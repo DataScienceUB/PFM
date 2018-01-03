@@ -29,7 +29,7 @@ The quality of the projects will be graded by using three sources of information
 + A presentation of your project. Your presentation should be professional enough to give at a technical conference (e.g. organized approach, prepared slides, a short demo or video if appropriate). 
 + [Peer-evaluation](https://docs.google.com/document/d/1iYwW6xOXSaQ9ApzYHpk-GdLONF9VGV17rOod2ifFkQs/edit?usp=sharing). Team members will assess other members of the team as well as themselves. Peer assessment provides data that will be used in assigning individual grades for team members.
 
-### Calendar 2017/2018
+### Calendar (2017/2018)
 + Feb. 18: Limit for official course enrollment.
 + Feb. 20 - 24: Assignment of projects & supervisors to student groups.
 + Mar. 3: Limit for delivering the project proposal short document to your advisors.
