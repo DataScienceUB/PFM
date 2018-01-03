@@ -30,11 +30,14 @@ The quality of the projects will be graded by using three sources of information
 + [Peer-evaluation](https://docs.google.com/document/d/1iYwW6xOXSaQ9ApzYHpk-GdLONF9VGV17rOod2ifFkQs/edit?usp=sharing). Team members will assess other members of the team as well as themselves. Peer assessment provides data that will be used in assigning individual grades for team members.
 
 ### Calendar 2017/2018
-Feb. 18: Limit for official course enrollment.
-Feb. 20 - 24: Assignment of projects & supervisors to student groups.
-Mar. 3: Limit for delivering the project proposal short document to your advisors.
-Jul. 1: Limit for final delivery of your project. 
-Jul. 3-7: Presentations.
++ Feb. 18: Limit for official course enrollment.
++ Feb. 20 - 24: Assignment of projects & supervisors to student groups.
++ Mar. 3: Limit for delivering the project proposal short document to your advisors.
++ Jul. 1: Limit for final delivery of your project. 
++ Jul. 3-7: Presentations.
+
+### Project proposals (2017/2018)
++ Title. Advisor: Dr. X
 
 
 
