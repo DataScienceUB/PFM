@@ -4,22 +4,24 @@
 
 In most of the cases, the Master Project is a teamwork project of 3 students working on a subject. Individual projects can be 
 considered only in special cases. Projects will naturally be expected to require an effort proportional to the number of team members.
-Students may choose a project from a list of suggested projects (that will be published at Campus Virtual) or propose one of their 
-own ideas. 
+Students may choose a project from a list of suggested projects or propose one of their own ideas. 
 
 ### Stages of Development of Master’s Project
 + Form a team of 3 students.
-+ Chose the topic for your Master’s Project in collaboration with Master’s Project Coordinators (jordi.vitria@ub.edu & ligual@ub.edu). 
++ Choose the topic for your Master’s Project in collaboration with Master’s Project Coordinators (jordi.vitria@ub.edu & ligual@ub.edu). 
 + Discuss the research questions, goals, approach you intend to take, methodology, data needed and time plan with your supervisors. 
 + Construct a logical outline for the project. Include analysis steps and expected outcomes. 
 + Define a clear role for all members of the group. This role will be considered in your personal student assessment.  
 + Fill in details of the project + role definition in a short document (max 2 pages). 
 + Hand in this document to your supervisors and start the project development! 
 
-The Master Project must be concluded before 1/7/2017. The project delivery must include:
-+ all code produced (GitHub or similar)
-+ a description of the completed project (jupyter notebook)
-+ a blog entry describing your work for a wide audience. 
+The Master Project must be concluded before 1/7/2018. 
+
+The project delivery must include:
++ all code produced.
++ a project report. 
++ a high level description of the completed project (jupyter notebook and/or blog entry)
+See this: See this example: https://github.com/axelbrando/Mixture-Density-Networks-for-distribution-and-uncertainty-estimation
 
 ### Project Assessment
 The quality of the projects will be graded by using three sources of information:
