@@ -1,1 +1,3 @@
 # Documents
++ [NORMES GENERALS REGULADORES DELS TREBALLS DE FI DE MÀSTER UNIVERSITARI
+DE LA UNIVERSITAT DE BARCELONA](https://github.com/DataScienceUB/PFM/blob/master/Documents/normes_TFM.pdf)
