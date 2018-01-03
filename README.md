@@ -36,7 +36,9 @@ The quality of the projects will be graded by using three sources of information
 + Jul. 1: Limit for final delivery of your project. 
 + Jul. 3-7: Presentations.
 
-### Project proposals (2017/2018)
+### Project proposals (2017/2018) (#proposals) 
+
+[create an anchor](#proposals)
 + Title. Advisor: Dr. X
 
 
