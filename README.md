@@ -17,8 +17,8 @@ considered only in special cases. Projects will naturally be expected to require
 The Master Project must be concluded before 1/7/2018. 
 
 The project delivery must include:
-+ all code produced.
-+ a project report. 
++ all code produced in a GitHub repository.
++ a project report (see the Report Template directory). 
 + a high level description of the completed project (jupyter notebook and/or blog entry)
 
 See this example: https://github.com/axelbrando/Mixture-Density-Networks-for-distribution-and-uncertainty-estimation
