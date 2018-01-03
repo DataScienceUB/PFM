@@ -3,7 +3,7 @@
 ## Guidelines to Master’s Project Proposal
 
 In most of the cases, the Master Project is a teamwork project of 3 students working on a subject. Individual projects can be 
-considered only in special cases. Projects will naturally be expected to require an effort proportional to the number of team members (300 hours per student). Students may choose a project from a list of suggested projects or propose one of their own ideas. 
+considered only in special cases. Projects will naturally be expected to require an effort proportional to the number of team members (300 hours per student). Students may choose a project from a list of suggested projects (see below) or propose one of their own ideas. 
 
 ### Stages of Development of Master’s Project
 + Form a team of 3 students.
@@ -38,7 +38,7 @@ The quality of the projects will be graded by using three sources of information
 + Jul. 1: Limit for final delivery of your project. 
 + Jul. 3-7: Presentations.
 
-### Project proposals (2017/2018) (#Project-proposals) 
+### Project proposals (2017/2018)
 + Title. Advisor: Dr. X
 
 
