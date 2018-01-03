@@ -14,8 +14,6 @@ considered only in special cases. Projects will naturally be expected to require
 + Fill in details of the project + role definition in a short document (max 2 pages). 
 + Hand in this document to your supervisors and start the project development! 
 
-[create an anchor](#Project-proposals)
-
 The Master Project must be concluded before 1/7/2018. 
 
 The project delivery must include:
