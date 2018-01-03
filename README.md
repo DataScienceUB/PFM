@@ -14,6 +14,8 @@ considered only in special cases. Projects will naturally be expected to require
 + Fill in details of the project + role definition in a short document (max 2 pages). 
 + Hand in this document to your supervisors and start the project development! 
 
+[create an anchor](###Project-proposals-(2017/2018))
+
 The Master Project must be concluded before 1/7/2018. 
 
 The project delivery must include:
@@ -36,9 +38,7 @@ The quality of the projects will be graded by using three sources of information
 + Jul. 1: Limit for final delivery of your project. 
 + Jul. 3-7: Presentations.
 
-### Project proposals (2017/2018) (#proposals) 
-
-[create an anchor](#proposals)
+(###Project-proposals-(2017/2018)) 
 + Title. Advisor: Dr. X
 
 
