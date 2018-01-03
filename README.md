@@ -21,12 +21,13 @@ The project delivery must include:
 + all code produced.
 + a project report. 
 + a high level description of the completed project (jupyter notebook and/or blog entry)
-See this: See this example: https://github.com/axelbrando/Mixture-Density-Networks-for-distribution-and-uncertainty-estimation
+
+See this example: https://github.com/axelbrando/Mixture-Density-Networks-for-distribution-and-uncertainty-estimation
 
 ### Project Assessment
 The quality of the projects will be graded by using three sources of information:
-+ The delivered information at the end of the project.  We will use a “Project Evaluation Rubric” (it will be available at Campus Virtual) to assign a mark to the project.
-+ A 20 minute Presentation of your project. Your presentation should be professional enough to give at a technical conference (e.g. organized approach, prepared slides, a short demo or video if appropriate). 
++ The delivered information at the end of the project.  We will use a [“Project Evaluation Rubric”](https://docs.google.com/spreadsheets/d/1g9foCpIxRSuA414hjeqWZNniJl_QC81W2x0P44_kngw/edit?usp=sharing) to assign a mark to the project.
++ A presentation of your project. Your presentation should be professional enough to give at a technical conference (e.g. organized approach, prepared slides, a short demo or video if appropriate). 
 + Peer-evaluation. Team members will assess other members of the team as well as themselves. Peer assessment provides data that will be used in assigning individual grades for team members.
 
 ### Calendar 2017/2018
@@ -35,4 +36,6 @@ Feb. 20 - 24: Assignment of projects & supervisors to student groups.
 Mar. 3: Limit for delivering the project proposal short document to your advisors.
 Jul. 1: Limit for final delivery of your project. 
 Jul. 3-7: Presentations.
+
+
 
