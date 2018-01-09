@@ -90,9 +90,7 @@ a partir del curs 2016-17.
   Desprès de l’exposició el tribunal estableix un torn de preguntes durant un període màxim de 15 minuts.
   + En l’avaluació del TFM individuals es valorarà el contingut del treball i l’originalitat dels resultats (70%), la redacció de la 
   memòria (20%) i   la presentació oral davant del tribunal (10%). 
-  + En l’avaluació del TFM grupals es valorarà l'aportació individual al contingut del treball i l’originalitat dels resultats (50%),   
-  el resultat de l'avaluació per parells dels alumnes (20%), la redacció de la memòria (20%) i la presentació oral davant del tribunal 
-  (10%).
+  + En l’avaluació del TFM grupals es valorarà segons la [rúbrica](https://docs.google.com/spreadsheets/d/1g9foCpIxRSuA414hjeqWZNniJl_QC81W2x0P44_kngw/edit?usp=sharing) dissenyada. 
   + Després de la defensa dels treballs, el tribunal es reuneix a porta tancada, decideix la seva qualificació (una nota de 0 a 10) i la 
   comunica a l’estudiant i a la SED. En cas que la qualificació sigui igual o superior a 9, cada membre del tribunal fa constar de 
   manera secreta si creu o no que el treball ha d’optar a tenir matrícula d’honor.
