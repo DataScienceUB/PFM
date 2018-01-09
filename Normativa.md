@@ -61,20 +61,67 @@ a partir del curs 2016-17.
       + Seguiment de la redacció de la memòria
       + Pautes per a la defensa
   + L’activitat de direcció de TFM es reconeix segons la normativa vigent a la UB.
-Sobre l’avaluació.
-El lliurament de la memòria del TFM es fa informàticament al Campus Virtual en el període establert per la CCM.
-La memòria s’ha de realitzar en anglès, ha de seguir un model estàndard i ha de recollir els punts següents:
-Portada.
-Resum.
-Introducció i antecedents. Definició d'objectius i motivació del problema.
-Desenvolupament i resultats.
-Conclusions.
-Bibliografia.
-Cada semestre, un cop finalitzat el període de lliurament de memòries, el coordinador o coordinadora del Màster, o  la persona en qui delegui, proposa els tribunals que han de jutjar els treballs presentats. Els tribunals estan formats per tres professors o professores, que ocupen els càrrecs de president, secretari i vocal, i són nomenats pel coordinador o coordinadora del Màster. Tots els membres dels tribunals han de ser professors o professores de la Facultat.
-Els tutors o tutores dels treballs que han de ser jutjats per un tribunal no en poden formar part. 
-Un cop presentada la memòria, el tutor o tutora de TFM fa arribar a la Secretaria (SED), en un sobre tancat adreçat al president o presidenta del tribunal, un informe confidencial on es valori la realització del treball per part de l’estudiant. Aquesta valoració ha d’incloure una nota de 0 a 10 justificada pel contingut del treball i l’originalitat dels resultats i una altra nota de 0 a 10 per la redacció de la memòria. A més, si el tutor o tutora considera que el treball pot optar a matrícula d’honor, ha de fer arribar a la SED en un sobre tancat adreçat a la CCM una proposta justificada d’opció a matrícula d’honor.
-Un cop nomenat el tribunal, el president o presidenta fixa la data i l’hora de les defenses dels TFM assignats al seu tribunal, dins del període establert per la CCM, i ho comunica a la SED, que s’ocupa de fixar el lloc de les defenses i fa la difusió adequada.
-6.7. L’estudiant facilitarà al seu tutor o tutora de TFM i a cada membre del tribunal que ho demani, una còpia en paper de la memòria.
+  
+6. Sobre l’avaluació.
+  + El lliurament de la memòria del TFM es fa informàticament al Campus Virtual en el període establert per la CCM.
+  + La memòria s’ha de realitzar en anglès, ha de seguir un model estàndard i ha de recollir els punts següents:
+      + Portada.
+      + Resum.
+      + Introducció i antecedents. Definició d'objectius i motivació del problema.
+      + Desenvolupament i resultats.
+      + Conclusions.
+      + Bibliografia.
+  + Cada semestre, un cop finalitzat el període de lliurament de memòries, el coordinador o coordinadora del Màster, o  la persona en 
+  qui delegui, proposa els tribunals que han de jutjar els treballs presentats. Els tribunals estan formats per tres professors o 
+  professores, que ocupen els càrrecs de president, secretari i vocal, i són nomenats pel coordinador o coordinadora del Màster. Tots 
+  els membres dels tribunals han de ser professors o professores de la Facultat.
+  + Els tutors o tutores dels treballs que han de ser jutjats per un tribunal no en poden formar part. 
+  + Un cop presentada la memòria, el tutor o tutora de TFM fa arribar a la Secretaria (SED) ............
+  + Un cop nomenat el tribunal, el president o presidenta fixa la data i l’hora de les defenses dels TFM assignats al seu tribunal, dins 
+  del període establert per la CCM, i ho comunica a la SED, que s’ocupa de fixar el lloc de les defenses i fa la difusió adequada.
+  + L’estudiant facilitarà al seu tutor o tutora de TFM i a cada membre del tribunal que ho demani, una còpia electrònica de la memòria.
+  + La defensa oral d'un projecte ha de ser pública. 
+  + En el cas d'un treball individual la defensa tindrà una durada màxima de 30 minuts. Durant una primera part l’estudiant exposarà el 
+  seu treball durant un màxim de 20 minuts. Desprès de l’exposició el tribunal estableix un torn de preguntes durant un període màxim de 
+  10 minuts.
+  + En el cas d'un treball en grup la defensa tindrà una durada màxima de 60 minuts. Durant una primera part tots els membres del grup 
+  exposaran el treball durant un màxim de 45 minuts. Aquesta exposició ha d'incloure una descripció i defensa clara de les 
+  responsabilitats i aportacions personals de cada membre per permetre al tribunal una avaluació individual. 
+  Desprès de l’exposició el tribunal estableix un torn de preguntes durant un període màxim de 15 minuts.
+  + En l’avaluació del TFM individuals es valorarà el contingut del treball i l’originalitat dels resultats (70%), la redacció de la 
+  memòria (20%) i   la presentació oral davant del tribunal (10%). 
+  + En l’avaluació del TFM grupals es valorarà l'aportació individual al contingut del treball i l’originalitat dels resultats (50%),   
+  el resultat de l'avaluació per parells dels alumnes (20%), la redacció de la memòria (20%) i la presentació oral davant del tribunal 
+  (10%).
+  + Després de la defensa dels treballs, el tribunal es reuneix a porta tancada, decideix la seva qualificació (una nota de 0 a 10) i la 
+  comunica a l’estudiant i a la SED. En cas que la qualificació sigui igual o superior a 9, cada membre del tribunal fa constar de 
+  manera secreta si creu o no que el treball ha d’optar a tenir matrícula d’honor.
+  + Finalitzada l’avaluació de tots els treballs del semestre, la CCM revisa el treballs amb nota igual o superior a 9 i atorga 
+  matrícules d’honor tenint en compte les recomanacions del tutor o tutora de TFM i dels membres del tribunal. En cap cas el nombre de 
+  matrícules d’honor pot excedir el que preveu el RD1125/2003.
+  + La CCM és l’encarregada de resoldre les reclamacions a la qualificació dels TFM.
+  
+7. Sobre la propietat intel·lectual.
+  + La propietat intel·lectual de la memòria del TFM correspon a l'estudiant, el qual cedeix de manera no exclusiva a la UB els drets 
+  d'explotació per fer-ne qualsevol ús. La UB utilitzarà llicències lliures en la publicació de les memòries dels treballs, així com en 
+  el possible codi desenvolupat per facilitar-ne la seva difusió i la reutilització de l’obra, sempre que no s'acordi prèviament el 
+  contrari. En el cas que es derivin drets de propietat industrial se seguirà la normativa existent a la UB.
+  + Els projectes que es desenvolupin en el marc de convenis amb empreses quedaran exclosos d'aquesta normativa atès que aquests es 
+  realitzen fora de l'àmbit de la UB. En aquest cas, tant la propietat intel·lectual del TFM com l'ús que en pot fer la UB vindrà 
+  determinada pel conveni signat prèviament amb l'empresa.
+  
+8. Sobre l’arxiu o dipòsit del treball.
+  + Una còpia electrònica de la memòria, en format pdf o alternatiu, quedarà arxivada al repositori institucional de la UB i serà de 
+  lliure consulta per a usos docents, de recerca o d'estudi personal, excepte en aquells casos en que l'autor o autora manifesti 
+  explícitament el seu caràcter confidencial o hi hagi dades que no es puguin divulgar pel seu caràcter privat.
+  + La UB fomentarà que l'estudiant utilitzi llicències lliures, com per exemple les de Creative Commons, en la publicació dels treballs 
+  per facilitar la difusió de l'obra i la reutilització.
+  + La UB vetllarà perquè els documents dipositats en el repositori segueixin els estàndards internacionals i puguin ser accessibles per 
+  a qualsevol cercador de producció científica i acadèmica d'àmbit nacional i internacional.
+
+9. Entrada en vigor.
+  + Aquestes normativa entrarà en vigor immediatament després d’haver estat aprovada per la CCM i la Comissió Acadèmica de la Facultat
+  de Matemàtiques i Informàtica.
 
 
 
