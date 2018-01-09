@@ -88,9 +88,8 @@ a partir del curs 2016-17.
   exposaran el treball durant un màxim de 45 minuts. Aquesta exposició ha d'incloure una descripció i defensa clara de les 
   responsabilitats i aportacions personals de cada membre per permetre al tribunal una avaluació individual. 
   Desprès de l’exposició el tribunal estableix un torn de preguntes durant un període màxim de 15 minuts.
-  + En l’avaluació del TFM individuals es valorarà el contingut del treball i l’originalitat dels resultats (70%), la redacció de la 
-  memòria (20%) i   la presentació oral davant del tribunal (10%). 
-  + En l’avaluació del TFM grupals es valorarà segons la [rúbrica](https://docs.google.com/spreadsheets/d/1g9foCpIxRSuA414hjeqWZNniJl_QC81W2x0P44_kngw/edit?usp=sharing) dissenyada. 
+  + En l’avaluació del TFM individuals es farà servir la [rúbrica](https://docs.google.com/spreadsheets/d/1g9foCpIxRSuA414hjeqWZNniJl_QC81W2x0P44_kngw/edit?usp=sharing) dissenyada. 
+  + En l’avaluació del TFM grupals es farà servir la [rúbrica](https://docs.google.com/spreadsheets/d/1g9foCpIxRSuA414hjeqWZNniJl_QC81W2x0P44_kngw/edit?usp=sharing) dissenyada i el [document d'avaluació entre parells](https://docs.google.com/document/d/1iYwW6xOXSaQ9ApzYHpk-GdLONF9VGV17rOod2ifFkQs/edit?usp=sharing) dissenyat. 
   + Després de la defensa dels treballs, el tribunal es reuneix a porta tancada, decideix la seva qualificació (una nota de 0 a 10) i la 
   comunica a l’estudiant i a la SED. En cas que la qualificació sigui igual o superior a 9, cada membre del tribunal fa constar de 
   manera secreta si creu o no que el treball ha d’optar a tenir matrícula d’honor.
