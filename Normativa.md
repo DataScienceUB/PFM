@@ -26,29 +26,41 @@ a partir del curs 2016-17.
   altres plans docents. Implica també la responsabilitat de signar l’acta oficial de qualificacions.
 
 3. Sobre la matriculació i els períodes d’avaluació.
-A efectes de períodes de matrícula i avaluació, en tot allò que no s’especifica en aquesta normativa, el TFM es tracta com a qualsevol altra assignatura del Màster. Tenint en compte el calendari de la Facultat i els aspectes específics d’aquesta assignatura, la CCM determina cada semestre el període de presentació dels projectes, de lliurament de les memòries i de la seva defensa.
-En el període corresponent (habitualment octubre i març), l’estudiant ha de presentar el projecte de TFM al coordinador o coordinadora del Màster, o de la persona en qui delegui.. El projecte ha d’incloure:
-Títol del treball proposat.
-Nom dels tutors o tutores de TFM.
-Breu pla de treball.
-Vist i plau del tutor o tutora de l’estudiant.
-L’assignatura de TFM no té reavaluació. Els projectes tenen una vigència d’un semestre. Els TFM no presentats durant el període d’avaluació establert per la CCM per al semestre corresponent es qualifiquen com a no presentats.
-Sobre l’assignació de temes i de tutors.
-Com a norma general, cada estudiant, d’acord amb les seves preferències i l’opinió del seu tutor o tutora, es posa d’acord amb un professor o professora de la Facultat per a que es faci responsable de la tutoria del seu TFM. En qualsevol cas, la CCM és la responsable última d’assignar un tutor o tutora de TFM a cada estudiant.
-La tutoria d’un TFM pot estar al càrrec d’una o varies persones, però com a mínim una d’elles ha de ser un professor o professora de la Facultat.
-L’acceptació de l’encàrrec de dirigir un TFM és potestat del professorat afectat.
-La tutoria d’un TFM pot ser parcialment responsabilitat d’una persona professional d’una empresa o institució externa a la UB. En aquest cas, la realització del TFM es farà en el marc d’un conveni entre l’empresa o institució externa i la Facultat d’acord amb la normativa vigent.
-Sobre la direcció.
-La funció de tutoria de TFM és la de dirigir el treball i orientar l’estudiant durant el període de la seva realització. Aquesta orientació inclou:
-Delimitació del tema i plantejament d’objectius
-Elaboració del projecte de TFM
-Planificació del desenvolupament del TFM
-Orientacions documentals i metodològiques
-Seguiment del desenvolupament del treball
-Obtenció de conclusions
-Seguiment de la redacció de la memòria
-Pautes per a la defensa
-L’activitat de direcció de TFM es reconeix segons la normativa vigent a la UB.
+  + A efectes de períodes de matrícula i avaluació, en tot allò que no s’especifica en aquesta normativa, el TFM es tracta com a 
+  qualsevol altra assignatura del Màster. Tenint en compte el calendari de la Facultat i els aspectes específics d’aquesta assignatura, 
+  la CCM determina cada semestre el període de presentació dels projectes, de lliurament de les memòries i de la seva defensa.
+  + En el període corresponent (habitualment octubre i març), l’estudiant ha de presentar el projecte de TFM al coordinador o 
+  coordinadora del Màster, o de la persona en qui delegui.. El projecte ha d’incloure:
+    + Títol del treball proposat.
+    + Nom dels tutors o tutores de TFM.
+    + Breu pla de treball.
+    + Vist i plau del tutor o tutora de l’estudiant.
+  + L'assignatura de TFM no té reavaluació. Els projectes tenen una vigència d’un semestre. Els TFM no presentats durant el període   
+  d’avaluació establert per la CCM per al semestre corresponent es qualifiquen com a no presentats.
+
+4. Sobre l’assignació de temes i de tutors.
+  + Com a norma general, cada estudiant, d’acord amb les seves preferències i l’opinió del seu tutor o tutora, es posa d’acord amb un 
+  professor o professora de la Facultat per a que es faci responsable de la tutoria del seu TFM. En qualsevol cas, la CCM és la 
+  responsable última d’assignar un tutor o tutora de TFM a cada estudiant.
+  + La tutoria d’un TFM pot estar al càrrec d’una o varies persones, però com a mínim una d’elles ha de ser un professor o professora de 
+  la Facultat.
+  + L’acceptació de l’encàrrec de dirigir un TFM és potestat del professorat afectat.
+  + La tutoria d’un TFM pot ser parcialment responsabilitat d’una persona professional d’una empresa o institució externa a la UB. En 
+  aquest cas, la realització del TFM es farà en el marc d’un conveni entre l’empresa o institució externa i la Facultat d’acord amb la 
+  normativa vigent.
+
+5. Sobre la direcció.
+  + La funció de tutoria de TFM és la de dirigir el treball i orientar l’estudiant durant el període de la seva realització. Aquesta 
+  orientació inclou:
+      + Delimitació del tema i plantejament d’objectius
+      + Elaboració del projecte de TFM
+      + Planificació del desenvolupament del TFM
+      + Orientacions documentals i metodològiques
+      + Seguiment del desenvolupament del treball
+      + Obtenció de conclusions
+      + Seguiment de la redacció de la memòria
+      + Pautes per a la defensa
+  + L’activitat de direcció de TFM es reconeix segons la normativa vigent a la UB.
 Sobre l’avaluació.
 El lliurament de la memòria del TFM es fa informàticament al Campus Virtual en el període establert per la CCM.
 La memòria s’ha de realitzar en anglès, ha de seguir un model estàndard i ha de recollir els punts següents:
