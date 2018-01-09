@@ -12,8 +12,12 @@ a partir del curs 2016-17.
 
 + Sobre l’objecte. 
   + El TFM és una assignatura semestral obligatòria que d’acord amb el pla d’estudis del Màster té un valor de 12 ECTS. 
-  + L’activitat formativa del TFM consisteix en la realització, de manera individual o mitjançant un treball en grup, i autònoma, d’un treball de recerca o innovació a proposta d’un o diversos tutors o tutores de TFM, i sota la seva supervisió. Aquest treball ha de permetre que l’estudiant mostri de manera individual i integrada els continguts formatius i les competències adquirides durant la realització del Màster i assoleixi les competències vinculades a l’assignatura TFM, segons el pla d’estudis.
-Sobre l’organització.
+  + L’activitat formativa del TFM consisteix en la realització, de manera individual o mitjançant un treball en grup, i autònoma, 
+  d’un treball de recerca o innovació a proposta d’un o diversos tutors o tutores de TFM, i sota la seva supervisió. Aquest treball ha
+  de permetre que l’estudiant mostri de manera individual i integrada els continguts formatius i les competències adquirides durant la 
+  realització del Màster i assoleixi les competències vinculades a l’assignatura TFM, segons el pla d’estudis.
+
++ Sobre l’organització.
 La Comissió de Coordinació del Màster (CCM) és la responsable de decidir tot el que faci referència al TFM en el marc de la normativa vigent. En cas de produir-se algun conflicte o eventualitat no previst en aquesta normativa, la CCM té la potestat de decidir.
 La coordinació de l’assignatura de TFM és responsabilitat del coordinador o coordinadora del Màster, o de la persona en qui delegui. La coordinació de l’assignatura implica l’elaboració del seu pla docent, que és aprovat després per la CCM juntament amb tots els altres plans docents. Implica també la responsabilitat de signar l’acta oficial de qualificacions.
 Sobre la matriculació i els períodes d’avaluació.
