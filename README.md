@@ -38,8 +38,8 @@ The quality of the projects will be graded by using three sources of information
 
 ### Project proposals (2017/2018)
 + Title: Bodas.net. 
-  + Descripción: Bodas.net es el portal de bodas líder en el mundo con el gran objetivo de ayudar a parejas enamoradas a organizar su   
-  boda. Gestionamos un total de 11 millones de usuarios únicos, 3 millones de recomendaciones, 5 millones de bodas, 400.000 empresas 
+  + Descripción: Bodas.net es el portal de bodas líder en el mundo con el gran objetivo de ayudar a parejas a organizar su
+  boda. Gestiona un total de 11 millones de usuarios únicos, 3 millones de recomendaciones, 5 millones de bodas, 400.000 empresas 
   anunciadas siendo un total de 800 empleados presentes en 15 países. Con un historial de casi 10 años en algunos de los países, el 
   objetivo del proyecto es:
     + Categorizar los usuarios que ya se han casado en grupos según su historial de leads en el portal y su propia información (fecha de 
@@ -51,7 +51,8 @@ The quality of the projects will be graded by using three sources of information
     predecir si el usuario generará o necesitará un lead en el futuro y podernos anticipar a sus necesidades (determinar la posible 
     siguiente acción del usuario)
   + Requisitos técnicos: Python, MySQL 
-  + Condiciones: Parte del proyecto debe ser realizado en las oficinas de Bodas.net por temas de privacidad de los datos.
+  + Condiciones: Parte del proyecto debe ser realizado en las oficinas de Bodas.net (en Sant Cugat) por temas de privacidad de los 
+  datos.
   + Advisor: Jordi Vitrià (UB) + David Guillament (Bodas.net)
 
 
