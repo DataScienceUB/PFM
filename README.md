@@ -55,5 +55,5 @@ The quality of the projects will be graded by using three sources of information
   datos.
   + Advisors: Jordi Vitrià (UB) + David Guillament (Bodas.net)
 
-
+ 
 
