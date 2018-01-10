@@ -48,12 +48,12 @@ The quality of the projects will be graded by using three sources of information
     de éstos extraer diferentes categorías de comportamientos de los usuarios.
     + Dado que el período medio de conexión de un usuario estándar en nuestro portal es de aproximadamente 12 meses (tiempo medio para 
     organizar una boda) el objetivo es crear un modelo que, usando las categorías del apartado anterior junto con los datos del usuario, 
-    predecir si el usuario generará o necesitará un lead en el futuro y podernos anticipar a sus necesidades (determinar la posible 
-    siguiente acción del usuario)
+    determine mediante predicción si el usuario generará o necesitará un lead en el futuro y podernos anticipar a sus necesidades 
+    (determinar la posible siguiente acción del usuario). 
   + Requisitos técnicos: Python, MySQL 
   + Condiciones: Parte del proyecto debe ser realizado en las oficinas de Bodas.net (en Sant Cugat) por temas de privacidad de los 
   datos.
-  + Advisor: Jordi Vitrià (UB) + David Guillament (Bodas.net)
+  + Advisors: Jordi Vitrià (UB) + David Guillament (Bodas.net)
 
 
 
