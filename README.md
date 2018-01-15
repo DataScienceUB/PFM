@@ -52,8 +52,19 @@ The quality of the projects will be graded by using three sources of information
     (determinar la posible siguiente acción del usuario). 
   + Requisitos técnicos: Python, MySQL 
   + Condiciones: Parte del proyecto debe ser realizado en las oficinas de Bodas.net (en Sant Cugat) por temas de privacidad de los 
-  datos.
+  datos. Proyecto Individual.
   + Advisors: Jordi Vitrià (UB) + David Guillament (Bodas.net)
 
- 
+ + Title: Deep Learning for the Detection and Characterization of the Carotid Artery in Ultrasound Imaging
+  + The project proposes to study longitudinal ultrasound images of the carotid artery of a set of subjects (~4.000) with and without 
+  atherosclerosis diseases. The main objective is to develop a Deep Learning approaches for the detection and characterization of 
+  atherosclerotic plaques (fatty material partially or totally blocking the blood flow). It also proposes to investigate the relationship 
+  between imaging features extracted from the artery and various biomarkers, as well as determining the plaque vulnerability and the
+  likelihood of developing cardiovascular events (labels recorded in the database).
+  + Advisor: Laura Igual. The work will be developed in the Faculty of Mathematics and Computer Science of UB in collaboration with Group 
+  of Epidemiology and Cardiovascular Genetics of the Institut Hospital del Mar;Investigacions Mèdiques de Barcelona (IMIM) and
+  Biomedical Research Institute of Lleida Dr. Pifarré Foundation (IRBLleida).
+  + Requirements: Project for 3 students, developing the following tasks: Task 1: To develop an Deep Learning method for the detection and 
+  quantification of the plaque / Task 2: Develop a Deep Learning method to characterize the different components of the plaque / Task 3: 
+  Develop a Deep Learning method based in the image information to predict the plaque vulnerability and the cardiovascular events.
 
