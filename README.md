@@ -58,13 +58,27 @@ The quality of the projects will be graded by using three sources of information
  + Title: Deep Learning for the Detection and Characterization of the Carotid Artery in Ultrasound Imaging
    + The project proposes to study longitudinal ultrasound images of the carotid artery of a set of subjects (~4.000) with and without
    atherosclerosis diseases. The main objective is to develop a Deep Learning approaches for the detection and characterization of
-   atherosclerotic plaques (fatty material partially or totally blocking the blood flow). It also proposes to investigate the relationship
-   between imaging features extracted from the artery and various biomarkers, as well as determining the plaque vulnerability and the
+   atherosclerotic plaques (fatty material partially or totally blocking the blood flow). It also proposes to investigate the 
+   relationship between imaging features extracted from the artery and various biomarkers, as well as determining the plaque 
+   vulnerability and the
    likelihood of developing cardiovascular events (labels recorded in the database).
-   + Advisor: Laura Igual. The work will be developed in the Faculty of Mathematics and Computer Science of UB in collaboration with Group
+   + Advisor: Laura Igual. The work will be developed in the Faculty of Mathematics and Computer Science of UB in collaboration with 
+   Group
    of Epidemiology and Cardiovascular Genetics of the Institut Hospital del Mar;Investigacions Mèdiques de Barcelona (IMIM) and
    Biomedical Research Institute of Lleida Dr. Pifarré Foundation (IRBLleida).
    + Requirements: Project for 3 students, developing the following tasks: Task 1: To develop an Deep Learning method for the detection 
-   and quantification of the plaque / Task 2: Develop a Deep Learning method to characterize the different components of the plaque / Task
+   and quantification of the plaque / Task 2: Develop a Deep Learning method to characterize the different components of the plaque / 
+   Task
    3: Develop a Deep Learning method based in the image information to predict the plaque vulnerability and the cardiovascular events.
+
++ Title: Analysis of Multimodal Brain Data in Alzheimer disease.
+   + In this project, we will develop a multimodal analysis of a rich data set of subjects who have memory problems. The general 
+   objective is to define profiles based on different markers to measure, from subjects with subjective memory complains, some link to 
+   the onset of the Alzheimer&#39;s disease. Given the multimodal data set we will explore different machine learning techniques to 
+   extract clusters from the data set and study them in relation with profiles based on memory and cognition characteristics. We will 
+   also statistically analyze if the data correlate with memory characteristics. The project is related with data science and 
+   computational intelligence. The data set contains 200 subjects including: - Brain imaging data (different modalities, already 
+   processed) - Data from Genome-Wide Association Study (GWAS) - Neuropsychology and clinical data - Scores from Memory tests.
+   + Advisor: Laura Igual. The project will be developed in collaboration with the Fundació ACE from Barcelona providing the data, 
+   involving the GWAS from the genomic imputation and measures from the preprocessed neuroimaging data.
 
