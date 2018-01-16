@@ -81,4 +81,5 @@ The quality of the projects will be graded by using three sources of information
    processed) - Data from Genome-Wide Association Study (GWAS) - Neuropsychology and clinical data - Scores from Memory tests.
    + Advisor: Laura Igual. The project will be developed in collaboration with the Fundació ACE from Barcelona providing the data, 
    involving the GWAS from the genomic imputation and measures from the preprocessed neuroimaging data.
+   + Requirements: project for 1 student.
 
