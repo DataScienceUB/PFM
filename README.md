@@ -114,4 +114,4 @@ The quality of the projects will be graded by using three sources of information
    from its usage will be published in relevant journals and publications. A business model for the exploitation of the tool will also 
    be delivered, and potential patents of some of the results obtained will be studied.
    + Advisor: José Mena (EURECAT) & Jordi Vitrià (UB). 
-   + Requirements: project for 2 students. 
+   + Requirements: project for 2 students. The project will be developed in collaboration with EURECAT (https://eurecat.org/).
