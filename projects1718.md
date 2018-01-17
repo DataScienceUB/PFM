@@ -1,6 +1,6 @@
 # Project Proposals (17/18)
 
-+ Title: Bodas.net. 
+## Title: Bodas.net. 
   + Descripción: Bodas.net es el portal de bodas líder en el mundo con el gran objetivo de ayudar a parejas a organizar su
   boda. Gestiona un total de 11 millones de usuarios únicos, 3 millones de recomendaciones, 5 millones de bodas, 400.000 empresas 
   anunciadas siendo un total de 800 empleados presentes en 15 países. Con un historial de casi 10 años en algunos de los países, el 
@@ -18,7 +18,7 @@
   datos. Proyecto Individual.
   + Advisors: Jordi Vitrià (UB) + David Guillament (Bodas.net)
 
- + Title: Deep Learning for the Detection and Characterization of the Carotid Artery in Ultrasound Imaging
+## Title: Deep Learning for the Detection and Characterization of the Carotid Artery in Ultrasound Imaging
    + The project proposes to study longitudinal ultrasound images of the carotid artery of a set of subjects (~4.000) with and without
    atherosclerosis diseases. The main objective is to develop a Deep Learning approaches for the detection and characterization of
    atherosclerotic plaques (fatty material partially or totally blocking the blood flow). It also proposes to investigate the 
@@ -34,7 +34,7 @@
    Task
    3: Develop a Deep Learning method based in the image information to predict the plaque vulnerability and the cardiovascular events.
 
-+ Title: Analysis of Multimodal Brain Data in Alzheimer disease.
+## Title: Analysis of Multimodal Brain Data in Alzheimer disease.
    + In this project, we will develop a multimodal analysis of a rich data set of subjects who have memory problems. The general 
    objective is to define profiles based on different markers to measure, from subjects with subjective memory complains, some link to 
    the onset of the Alzheimer&#39;s disease. Given the multimodal data set we will explore different machine learning techniques to 
@@ -46,7 +46,7 @@
    involving the GWAS from the genomic imputation and measures from the preprocessed neuroimaging data.
    + Requirements: project for 1 student.
 
-+ Title: GuruFinder
+## Title: GuruFinder
    + In the Information Age, where tons of documents are generated every day, to find relevant information for a given topic has become 
    a challenge. Researchers in the field of Information Retrieval have been working to solve this challenge by combining different 
    disciplines, from Artificial Intelligence to Cognitive Psychology or Library Sciences. Significant advances in the field have been 
