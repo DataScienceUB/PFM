@@ -1,6 +1,6 @@
 # Project Proposals (17/18)
 
-## Title: Using Deep learning and Open Street Maps to find features in aerial images.
+## Title:  Using Deep learning and Open Street Maps to find features in aerial images.
   + A great deal of the interesting information captured by aerial imagery is as yet unused, even though it could help to enrich maps and 
   improve navigation. For this information to be made available, objects such as buildings or roads need to be recognized on images.
   This is laborious to do entirely manually, but non-trivial to perform computationally. The objective of this project is to develop an 
