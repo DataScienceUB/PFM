@@ -106,7 +106,7 @@
 + Requirements: project for 2 students. 
 
 ## Title: Analysis and visualization of research and teaching data of University of Barcelona Professors
-Analysis and visualization of data from the Banc d'Aliments Foundation [https://www.bancdelsaliments.org/]. The students will be given access to a database of the recollection food campaigns and the distribution to social entitites all around Catalonia. They will be asked to propose how to visualize these data for raising awareness of the Foundation mission and accomplishments. This project is a collaboration with the Foundation and there will be a confidentiality agreement before accepting the work. Depending on the quality of the project it could have a real implementation within the public website of the Foundatin.
++ Analysis and visualization of data from the (Banc d'Aliments Foundation)[https://www.bancdelsaliments.org/]. The students will be given access to a database of the recollection food campaigns and the distribution to social entitites all around Catalonia. They will be asked to propose how to visualize these data for raising awareness of the Foundation mission and accomplishments. This project is a collaboration with the Foundation and there will be a confidentiality agreement before accepting the work. Depending on the quality of the project it could have a real implementation within the public website of the Foundatin.
 + Coordinators: Eloi Puertas and Mireia Ribera 
 + Requirements: project for 2 students. 
 
