@@ -78,3 +78,17 @@
    be delivered, and potential patents of some of the results obtained will be studied.
    + Advisor: José Mena (EURECAT) & Jordi Vitrià (UB). 
    + Requirements: project for 2 students. The project will be developed in collaboration with EURECAT (https://eurecat.org/).
+   
+## Title: SEMANTIC SEGMENTATION USING DEEP LEARNING APPLIED TO FOOD ANALYSIS
+  + State-of-art approaches for semantic segmentation are built on Fully Convolutional Neural Networks (FCNs), which are a natural 
+  extension of Convolutional Neural Networks (CNNs) to tackle per pixel prediction problems. Their typical architecture is composed of a 
+  downsampling path to extract coarse semantic features, an upsampling path to recover the input image resolution and, optionally, a post-
+  processing module to refine model predictions. Moreover, attention models embedded into the deep learning approach improves additionally 
+  the final performance. 
+  The most recent methods in the field of semantic image segmentation provide great results with datasets that contain a relatively low 
+  number of classes, such as CamVid (11 semantic classes) or Gatech (8 semantic classes). The number of categories used when dealing with 
+  food analysis is much higher (tens of classes), thus increasing the difficulty of the task and providing not so satisfactory results. 
+  Therefore, the purpose of this work is to provide solutions for semantic segmentation applied to food images in order to, for example, 
+  estimate food consumption, extract ingredients or approximate food portions in images. 
+  + Advisor: Petia Radeva (UB)
+  + Requirements: project for 3 students.
