@@ -80,11 +80,10 @@ a partir del curs 2016-17.
   professores, que ocupen els càrrecs de president, secretari i vocal, i són nomenats pel coordinador o coordinadora del Màster. Tots 
   els membres dels tribunals han de ser professors o professores de la Facultat.
   + Els tutors o tutores dels treballs que han de ser jutjats per un tribunal no en poden formar part. 
-  + Un cop presentada la memòria, el tutor o tutora de TFM fa arribar a la Secretaria (SED) ............
   + Un cop nomenat el tribunal, el president o presidenta fixa la data i l’hora de les defenses dels TFM assignats al seu tribunal, dins 
   del període establert per la CCM, i ho comunica a la SED, que s’ocupa de fixar el lloc de les defenses i fa la difusió adequada.
   + L’estudiant facilitarà al seu tutor o tutora de TFM i a cada membre del tribunal que ho demani, una còpia electrònica de la memòria.
-  + La defensa oral d'un projecte ha de ser pública. 
+  + La defensa oral d'un TFM ha de ser pública. 
   + En el cas d'un treball individual la defensa tindrà una durada màxima de 30 minuts. Durant una primera part l’estudiant exposarà el 
   seu treball durant un màxim de 20 minuts. Desprès de l’exposició el tribunal estableix un torn de preguntes durant un període màxim de 
   10 minuts.
