@@ -8,8 +8,8 @@
   orthophotos, a method which can be adapted for various classes of objects. The method will use a supervised machine-learning approach 
   with a deep convolutional neural network using specific imagery from the Institut Cartogràfic i Geològic de Catalunya and crowdsourced 
   geographic information from the OpenStreetMap (OSM) project. 
-  + Advisor: Jordi Vitrià (UB). 
-  + Requirements: project for 3 students. The project will be developed in collaboration with ICGC (www.icgc.cat/).
+  + Advisor: Jordi Vitrià (UB) & Santi Seguí (UB). 
+  + Requirements: project for 3 students. 
 
 ## Title: Bodas.net. 
   + Descripción: Bodas.net es el portal de bodas líder en el mundo con el gran objetivo de ayudar a parejas a organizar su
