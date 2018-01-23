@@ -1,3 +1,5 @@
+*Aquesta és una versió preliminar, sense efectes fins que no sigui aprovada.*
+
 # Màster Fonaments de Ciència de Dades
 ## Proposta de Normativa de TFM
 
