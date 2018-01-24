@@ -1,10 +1,10 @@
 # Project Proposals (17/18)
 
 ## Title:  Using Deep learning and Open Street Maps to find features in aerial images.
-  + A great deal of the interesting information captured by aerial imagery is as yet unused, even though it could help to enrich maps and 
+  + A great amount of the interesting information captured by aerial imagery is still not used, even though it could help to enrich maps and 
   improve navigation. For this information to be made available, objects such as buildings or roads need to be recognized on images.
-  This is laborious to do entirely manually, but non-trivial to perform computationally. The objective of this project is to develop an 
-  automated method for detecting objects of a chosen class (f.e. pedestrian crosswalks, isolated buildings, roundabouts, etc.) on 
+  This is laborious to do manually, but non-trivial to perform computationally. The objective of this project is to develop an 
+  automated method for detecting objects of a chosen class (i.e. pedestrian crosswalks, isolated buildings, roundabouts, etc.) on 
   orthophotos, a method which can be adapted for various classes of objects. The method will use a supervised machine-learning approach 
   with a deep convolutional neural network using specific imagery from the Institut Cartogràfic i Geològic de Catalunya and crowdsourced 
   geographic information from the OpenStreetMap (OSM) project. 
