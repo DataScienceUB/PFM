@@ -36,14 +36,11 @@
    relationship between imaging features extracted from the artery and various biomarkers, as well as determining the plaque 
    vulnerability and the
    likelihood of developing cardiovascular events (labels recorded in the database).
-   + Advisor: Laura Igual. The work will be developed in the Faculty of Mathematics and Computer Science of UB in collaboration with 
-   Group
-   of Epidemiology and Cardiovascular Genetics of the Institut Hospital del Mar;Investigacions Mèdiques de Barcelona (IMIM) and
-   Biomedical Research Institute of Lleida Dr. Pifarré Foundation (IRBLleida).
+   The work will be developed in the Faculty of Mathematics and Computer Science of UB in collaboration with Group of Epidemiology and Cardiovascular Genetics of the Institut Hospital del Mar;Investigacions Mèdiques de Barcelona (IMIM) and Biomedical Research Institute of Lleida Dr. Pifarré Foundation (IRBLleida).
+   + Advisor: Laura Igual.
    + Requirements: Project for 3 students, developing the following tasks: Task 1: To develop an Deep Learning method for the detection 
    and quantification of the plaque / Task 2: Develop a Deep Learning method to characterize the different components of the plaque / 
-   Task
-   3: Develop a Deep Learning method based in the image information to predict the plaque vulnerability and the cardiovascular events.
+   Task 3: Develop a Deep Learning method based in the image information to predict the plaque vulnerability and the cardiovascular events.
 
 ## Title: Analysis of Multimodal Brain Data in Alzheimer disease.
    + In this project, we will develop a multimodal analysis of a rich data set of subjects who have memory problems. The general 
@@ -53,8 +50,8 @@
    also statistically analyze if the data correlate with memory characteristics. The project is related with data science and 
    computational intelligence. The data set contains 200 subjects including: - Brain imaging data (different modalities, already 
    processed) - Data from Genome-Wide Association Study (GWAS) - Neuropsychology and clinical data - Scores from Memory tests.
-   + Advisor: Laura Igual. The project will be developed in collaboration with the Fundació ACE from Barcelona providing the data, 
-   involving the GWAS from the genomic imputation and measures from the preprocessed neuroimaging data.
+   The project will be developed in collaboration with the Fundació ACE from Barcelona providing the data, involving the GWAS from the genomic imputation and measures from the preprocessed neuroimaging data. Fundació ACE is a nonprofit private organization dedicated to diagnosis, treatment, research and to helping people with Alzheimer’s Disease and other dementias.
+   + Advisor: Gemma Monté (Fundació ACE) &  Laura Igual (UB).
    + Requirements: project for 1 student.
 
 ## Title: GuruFinder
@@ -116,7 +113,7 @@
 + Coordinators: Oriol Pujol and Mireia Ribera
 + Requirements: project for 2 students. 
 
-## Title: Analysis and visualization of research and teaching data of University of Barcelona Professors
+## Title: Analysis and visualization of data from the Banc d'Aliments Foundation
 + Analysis and visualization of data from the Banc d'Aliments Foundation [https://www.bancdelsaliments.org/]. The students will be given access to a database of the recollection food campaigns and the distribution to social entitites all around Catalonia. They will be asked to propose how to visualize these data for raising awareness of the Foundation mission and accomplishments. This project is a collaboration with the Foundation and there will be a confidentiality agreement before accepting the work. Depending on the quality of the project it could have a real implementation within the public website of the Foundatin.
 + Coordinators: Eloi Puertas and Mireia Ribera 
 + Requirements: project for 2 students. 
