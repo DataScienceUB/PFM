@@ -38,9 +38,7 @@
    likelihood of developing cardiovascular events (labels recorded in the database).
    The work will be developed in the Faculty of Mathematics and Computer Science of UB in collaboration with Group of Epidemiology and Cardiovascular Genetics of the Institut Hospital del Mar;Investigacions Mèdiques de Barcelona (IMIM) and Biomedical Research Institute of Lleida Dr. Pifarré Foundation (IRBLleida).
    + Advisor: Laura Igual.
-   + Requirements: Project for 3 students, developing the following tasks: Task 1: To develop an Deep Learning method for the detection 
-   and quantification of the plaque / Task 2: Develop a Deep Learning method to characterize the different components of the plaque / 
-   Task 3: Develop a Deep Learning method based in the image information to predict the plaque vulnerability and the cardiovascular events.
+   + Requirements: Project for 2 or 3 students, developing the following tasks: Task 1: To develop an Deep Learning method for the detection and quantification of the plaque / Task 2: Develop a Deep Learning method to characterize the different components of the plaque / Task 3: Develop a Deep Learning method based in the image information to predict the plaque vulnerability and the cardiovascular events.
 
 ## Title: Analysis of Multimodal Brain Data in Alzheimer disease.
    + In this project, we will develop a multimodal analysis of a rich data set of subjects who have memory problems. The general 
