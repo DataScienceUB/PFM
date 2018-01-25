@@ -1,3 +1,5 @@
 ## Master’s Project Report
 
+Here you have a latex report template.
+
 The report should containg 50 pages for a teamwork project and 30 pages for an individual project.
