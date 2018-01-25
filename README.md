@@ -7,8 +7,9 @@ considered only in special cases. Projects will naturally be expected to require
 
 ### Stages of Development of Master’s Project
 + Form a team of 3 students.
-+ Choose the topic for your Master’s Project in collaboration with Master’s Project Coordinators (jordi.vitria@ub.edu & ligual@ub.edu). 
-+ Discuss the research questions, goals, approach you intend to take, methodology, data needed and time plan with your project supervisor. 
++ Choose the prioritized list of projects. 
++ The Master’s Project Coordinators (jordi.vitria@ub.edu & ligual@ub.edu) will assign you a project, by looking for a (maybe global) maximum of the function that represents your global preferences. 
++ Discuss the research questions, goals, approach you intend to take, methodology, data needed and time plan with your project supervisor.  
 + Construct a logical outline for the project. Include analysis steps and expected outcomes. 
 + Define a clear role for all members of the group. This role will be considered in your personal student assessment.  
 + Fill in details of the project + role definition in a short document (max 2 pages). 
