@@ -48,7 +48,7 @@
    also statistically analyze if the data correlate with memory characteristics. The project is related with data science and 
    computational intelligence. The data set contains 200 subjects including: - Brain imaging data (different modalities, already 
    processed) - Data from Genome-Wide Association Study (GWAS) - Neuropsychology and clinical data - Scores from Memory tests.
-   The project will be developed in collaboration with the Fundació ACE from Barcelona providing the data, involving the GWAS from the genomic imputation and measures from the preprocessed neuroimaging data. Fundació ACE is a nonprofit private organization dedicated to diagnosis, treatment, research and to helping people with Alzheimer’s Disease and other dementias.
+   The project will be developed in collaboration with the Fundació ACE (http://www.fundacioace.com/en/) from Barcelona providing the data, involving the GWAS from the genomic imputation and measures from the preprocessed neuroimaging data. Fundació ACE is a nonprofit private organization dedicated to diagnosis, treatment, research and to helping people with Alzheimer’s Disease and other dementias.
    + Advisor: Gemma Monté (Fundació ACE) &  Laura Igual (UB).
    + Requirements: project for 1 student.
 
