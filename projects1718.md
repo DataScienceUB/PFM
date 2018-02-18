@@ -116,7 +116,7 @@
 + Coordinators: Eloi Puertas and Mireia Ribera 
 + Requirements: project for 2 students. 
 
-## Sentiment Analysis of students evaluation of teaching. 
+## Title: Sentiment Analysis of students evaluation of teaching. 
 
 Higher Education Institutions all over the world perform many surveys for the assessment of the quality of their studies. One of the most important survey is the "Input on Teaching from Students (ITS)" where students have to grade their subjects and teachers across the studies. 
 
@@ -126,5 +126,5 @@ Precisely,  the goal of this project is try to do this by applying sentiment ana
 
 The project would be performed jointly with another student from computational linguistics master, which will help in defining and building the corpus from the data,
 
-Coordinators:  Eloi Puertas and Antonia Martí
-Requirements: project for 1-2 students (+ 1 student from computational linguistics master)
++ Coordinators:  Eloi Puertas and Antonia Martí
++ Requirements: project for 1-2 students (+ 1 student from computational linguistics master)
