@@ -116,5 +116,15 @@
 + Coordinators: Eloi Puertas and Mireia Ribera 
 + Requirements: project for 2 students. 
 
+## Sentiment Analysis of students evaluation of teaching. 
 
+Higher Education Institutions all over the world perform many surveys for the assessment of the quality of their studies. One of the most important survey is the "Input on Teaching from Students (ITS)" where students have to grade their subjects and teachers across the studies. 
 
+In Universitat de Barcelona these surveys are applyied for each subject and professor. Their results are crucial not only for the teachers but for directors of department and directors of studies. The importance of this surveys is higher every year, and thus, the number of participants rises. Such surveys have two distinct parts, one more quantitative where the student grades professors and subjects according to different issues. This part is useful for both  professors and directors of studies.  The other part is more qualitative, where students fill an open question with comments regarding the subject or the professor. Normally this part is very useful for the professors in order to improve the quality of his/her teaching. However directors of studies or department can not have an automatic quantitative overview of this comments, aggregated for all professors and subjects. To have this information could be crucial for an improvement of the quality of the studies. One way to do it, can be to classify the comments of the students into positive or negative, and then aggregate the results. 
+
+Precisely,  the goal of this project is try to do this by applying sentiment analysis of the students comments in surveys, in order to know automatically how many positive and negative comments a subject o professor has. The project will have  different parts, the first one will be the scrapping of the data from the surveys stored in PDF files. The second part will be to build a corpus and extract data.  Surveys comments are in Catalan and Spanish, so trying to identify the language can help to build the corpus. And finally to apply machine learning algorithms for learning the most important features and perform the sentiment analysis to each comment. The output should be a report with the number of positive, neutrals and negative comments for each professor and teacher.
+
+The project would be performed jointly with another student from computational linguistics master, which will help in defining and building the corpus from the data,
+
+Coordinators:  Eloi Puertas and Antonia Martí
+Requirements: project for 1-2 students (+ 1 student from computational linguistics master)
