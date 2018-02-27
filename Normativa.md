@@ -50,8 +50,8 @@ a partir del curs 2016-17.
   la Facultat.
   + L’acceptació de l’encàrrec de dirigir un TFM és potestat del professorat afectat.
   + La tutoria d’un TFM pot ser parcialment responsabilitat d’una persona professional d’una empresa o institució externa a la UB. En 
-  aquest cas, la realització del TFM es farà en el marc d’un conveni entre l’empresa o institució externa i la Facultat d’acord amb la 
-  normativa vigent.
+  aquest cas, s'haurà d'omplir el programa de treball i signar el document de compromís de confidencialitat, de prohibició de
+  reproducció i explotació de treballs i de protecció de dades de caràcter personal.
 
 5. Sobre la direcció.
   + La funció de tutoria de TFM és la de dirigir el treball i orientar l’estudiant durant el període de la seva realització. Aquesta 
@@ -106,9 +106,9 @@ a partir del curs 2016-17.
   d'explotació per fer-ne qualsevol ús. La UB utilitzarà llicències lliures en la publicació de les memòries dels treballs, així com en 
   el possible codi desenvolupat per facilitar-ne la seva difusió i la reutilització de l’obra, sempre que no s'acordi prèviament el 
   contrari. En el cas que es derivin drets de propietat industrial se seguirà la normativa existent a la UB.
-  + Els projectes que es desenvolupin en el marc de convenis amb empreses quedaran exclosos d'aquesta normativa atès que aquests es 
-  realitzen fora de l'àmbit de la UB. En aquest cas, tant la propietat intel·lectual del TFM com l'ús que en pot fer la UB vindrà 
-  determinada pel conveni signat prèviament amb l'empresa.
+  + Els projectes que es desenvolupin amb empreses quedaran exclosos d'aquesta normativa atès que aquests es realitzen fora de l'àmbit 
+  de la UB. En aquest cas, tant la propietat intel·lectual del TFM com l'ús que en pot fer la UB vindrà determinada pels compromisos
+  signats prèviament amb l'empresa.
   
 8. Sobre l’arxiu o dipòsit del treball.
   + Una còpia electrònica de la memòria, en format pdf o alternatiu, quedarà arxivada al repositori institucional de la UB i serà de 
