@@ -35,6 +35,7 @@ The quality of the projects will be graded by using three sources of information
 + Feb. 19 - 23: Period for sending us your project priorities by grups. 
 + Feb. 26: Assignment of projects & supervisors to student groups.
 + Mar. 2: Limit for delivering the project proposal short document to your advisors.
++ June 9: Limit for informing (via email to ligual@ub.edu) if you will present the TFM in July or September.
 + Jul. 1 & Set 1: Limit for final delivery of your project. 
 + Jul. 9-20 & Set 12-28: Presentations.
 
