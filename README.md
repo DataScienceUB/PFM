@@ -43,3 +43,8 @@ The quality of the projects will be graded by using three sources of information
 
 [Project Proposals 2017/1028](projects1718.md)
 
+## Master’s Project Presentation:
+
++ Presentations will be 20 minutes for individual projects, 30 minutes for projects of 2 students and 40 minutes for projects of 3 students, followed by 10 minuts of quetsions.
+
+
