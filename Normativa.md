@@ -33,12 +33,12 @@ a partir del curs 2016-17.
   + A efectes de períodes de matrícula i avaluació, en tot allò que no s’especifica en aquesta normativa, el TFM es tracta com a 
   qualsevol altra assignatura del Màster. Tenint en compte el calendari de la Facultat i els aspectes específics d’aquesta assignatura, 
   la CCM determina cada semestre el període de presentació dels projectes, de lliurament de les memòries i de la seva defensa.
-  + En el període corresponent, l’estudiant ha de presentar la proposta de projecte de TFM al coordinador o 
+  + En el període corresponent, l’estudiant ha de presentar la proposta de projecte de TFM al coordinador o   
   coordinadora del Màster, o a la persona en qui delegui. El projecte ha d’incloure:
     + Títol del treball proposat.
     + Nom dels tutors o tutores de TFM.
     + Breu descripció i pla de treball.
-    + Noms dels membres del grup.
+    + Noms del membre o membres del grup.
   + L'assignatura de TFM no té reavaluació. Els projectes tenen una vigència d’un semestre. Els TFM no presentats durant el període   
   d’avaluació establert per la CCM per al semestre corresponent es qualifiquen com a no presentats.
 
