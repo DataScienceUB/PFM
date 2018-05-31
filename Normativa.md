@@ -42,9 +42,7 @@ a partir del curs 2016-17.
   + L'assignatura de TFM no té reavaluació. Els projectes tenen una vigència d’un semestre. Els TFM no presentats durant el període  d’avaluació establert per la CCM per al semestre corresponent es qualifiquen com a no presentats.
 
 4. Sobre l’assignació de temes i de tutors.
-  + Com a norma general, cada estudiant, d’acord amb les seves preferències i l’opinió del seu tutor o tutora, es posa d’acord amb un 
-  professor o professora de la Facultat per a que es faci responsable de la tutoria del seu TFM. En qualsevol cas, la CCM és la 
-  responsable última d’assignar un tutor o tutora de TFM a cada estudiant.
+  + Com a norma general, cada estudiant o grup d'estudiants, d’acord amb les seves preferències i l’opinió del seu tutor o tutora, es posa d’acord amb un professor o professora de la Facultat per a que es faci responsable de la tutoria del seu TFM. En qualsevol cas, la CCM és la responsable última d’assignar un tutor o tutora de TFM a cada estudiant.
   + La tutoria d’un TFM pot estar al càrrec d’una o varies persones, però com a mínim una d’elles ha de ser un professor o professora de 
   la Facultat.
   + L’acceptació de l’encàrrec de dirigir un TFM és potestat del professorat afectat.
