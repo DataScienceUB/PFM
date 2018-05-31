@@ -71,10 +71,7 @@ a partir del curs 2016-17.
       + Desenvolupament i resultats.
       + Conclusions.
       + Bibliografia.
-  + Cada semestre, un cop finalitzat el període de lliurament de memòries, el coordinador o coordinadora del Màster, o  la persona en 
-  qui delegui, proposa els tribunals que han de jutjar els treballs presentats. Els tribunals estan formats per tres professors o 
-  professores, que ocupen els càrrecs de president, secretari i vocal, i són nomenats pel coordinador o coordinadora del Màster. Tots 
-  els membres dels tribunals han de ser professors o professores de la Facultat.
+  + Cada semestre el coordinador o coordinadora del Màster, o  la persona en   qui delegui, proposa els tribunals que han de jutjar els treballs presentats. Els tribunals estan formats per tres professors o   professores, que ocupen els càrrecs de president, secretari i vocal, i són nomenats pel coordinador o coordinadora del Màster. Tots   els membres dels tribunals han de ser professors o professores de la Facultat.
   + Els tutors o tutores dels treballs que han de ser jutjats per un tribunal no en poden formar part. 
   + Un cop nomenat el tribunal, el president o presidenta fixa la data i l’hora de les defenses dels TFM assignats al seu tribunal, dins 
   del període establert per la CCM, i ho comunica a la SED, que s’ocupa de fixar el lloc de les defenses i fa la difusió adequada.
