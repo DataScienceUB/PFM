@@ -45,7 +45,6 @@ a partir del curs 2016-17.
   + Com a norma general, cada estudiant o grup d'estudiants, d’acord amb les seves preferències i l’opinió del seu tutor o tutora, es posa d’acord amb un professor o professora de la Facultat per a que es faci responsable de la tutoria del seu TFM. En qualsevol cas, la CCM és la responsable última d’assignar un tutor o tutora de TFM a cada estudiant.
   + La tutoria d’un TFM pot estar al càrrec d’una o varies persones, però com a mínim una d’elles ha de ser un professor o professora de 
   la Facultat.
-  + L’acceptació de l’encàrrec de dirigir un TFM és potestat del professorat afectat.
   + La tutoria d’un TFM pot ser parcialment responsabilitat d’una persona professional d’una empresa o institució externa a la UB. En 
   aquest cas, s'haurà d'omplir el programa de treball i signar el document de compromís de confidencialitat, de prohibició de
   reproducció i explotació de treballs i de protecció de dades de caràcter personal.
