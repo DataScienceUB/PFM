@@ -39,8 +39,7 @@ a partir del curs 2016-17.
     + Nom dels tutors o tutores de TFM.
     + Breu descripció i pla de treball.
     + Noms del membre o membres del grup.
-  + L'assignatura de TFM no té reavaluació. Els projectes tenen una vigència d’un semestre. Els TFM no presentats durant el període   
-  d’avaluació establert per la CCM per al semestre corresponent es qualifiquen com a no presentats.
+  + L'assignatura de TFM no té reavaluació. Els projectes tenen una vigència d’un semestre. Els TFM no presentats durant el període  d’avaluació establert per la CCM per al semestre corresponent es qualifiquen com a no presentats.
 
 4. Sobre l’assignació de temes i de tutors.
   + Com a norma general, cada estudiant, d’acord amb les seves preferències i l’opinió del seu tutor o tutora, es posa d’acord amb un 
