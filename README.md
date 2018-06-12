@@ -36,10 +36,10 @@ The quality of the projects will be graded by using three sources of information
 + Feb. 26: Assignment of projects & supervisors to student groups.
 + Mar. 2: Limit for delivering the project proposal short document to your advisors.
 + May 15: Limit for informing (via email to ligual@ub.edu) if you will present the TFM in July or September.
-+ Jul. 1 & Set 1: Limit for final delivery of your project. 
++ Jul. 1 & Set 1: Limit for final delivery of your project. Use Campus Virtual Task.
 + Jul. 9-20 & Set 12-28: Presentations.
 
-### Projects
+### Project Proposals
 
 [Project Proposals 2017/1028](projects1718.md)
 
@@ -48,6 +48,7 @@ The quality of the projects will be graded by using three sources of information
 + Use the latex report template available in this page.
 + The report should contain 50 pages for a teamwork project and 30 pages for an individual project.
 + The report should contain a link to the project Github repository.
++ Delivery should be only digital by Campus Virtual.
 
 ### Master’s Project Presentation:
 
