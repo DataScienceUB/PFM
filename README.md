@@ -48,6 +48,7 @@ The quality of the projects will be graded by using three sources of information
 + Use the latex report template available in this page.
 + The report should contain 50 pages for a teamwork project and 30 pages for an individual project.
 + The report should contain a link to the project Github repository.
++ For team projects, the report should contain a final chapter where the contribution of each of the team members should be detailed.
 + Delivery should be only digital by Campus Virtual.
 
 ### Master’s Project Presentation:
