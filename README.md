@@ -56,3 +56,5 @@ The quality of the projects will be graded by using three sources of information
 + Presentations will be 20 minutes for individual projects, 30 minutes for projects of 2 students and 40 minutes for projects of 3 students, followed by 10 minuts of quetsions.
 
 [Dates and evaluation committees for the defense of TFM (July 2017/1028)](1718-TFM-Defense-July.pdf)
+
+[Dates and evaluation committees for the defense of TFM (September 2017/1028)](1718-TFM-Tribunal-Sept.pdf)
