@@ -55,9 +55,9 @@ The quality of the projects will be graded by using three sources of information
 •	[Here](http://www.ub.edu/cub/criteri.php?id=2176) you can find the style guide Interuniversity Style Guide for Writing Institutional Texts in English which aims to facilitate interuniversity communication and improve the quality of the institutional English-language documents we produce for international readers. 
 
 #### Guidelines for code documentation in GitHub:
-•	For the basic structure of your GitHub you can use [Cookiecutter](https://cookiecutter.readthedocs.io/en/latest/)
-•	You can find Notebook examples [here](https://github.com/DataScienceUB/introduction-datascience-python-book).
-•	For non-publicable projects: use private [Bitbucket](https://bitbucket.org/) repositories.
++	For the basic structure of your GitHub you can use [Cookiecutter](https://cookiecutter.readthedocs.io/en/latest/)
++	You can find Notebook examples [here](https://github.com/DataScienceUB/introduction-datascience-python-book).
++	For non-publicable projects: use private [Bitbucket](https://bitbucket.org/) repositories.
 
 
 ### Master’s Project Presentation:
