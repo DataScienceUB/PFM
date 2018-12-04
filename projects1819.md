@@ -1,6 +1,6 @@
 
 
-##Title: Agent-based models for assessing the risk of default propagation in interconnected sectorial financial networks
+## Title: Agent-based models for assessing the risk of default propagation in interconnected sectorial financial networks
 
 Advisor: Jordi Nin
 
