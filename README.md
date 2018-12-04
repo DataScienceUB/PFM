@@ -49,6 +49,17 @@ The quality of the projects will be graded by using three sources of information
 + For team projects, the report should contain a final appendix where the contribution of each of the team members should be detailed.
 + Delivery should be only digital by Campus Virtual.
 
+### Guidelines for the Project Deliveries
+
+#### Formal requirements for the TFM document:
+•	[Here](http://www.ub.edu/cub/criteri.php?id=2176) you can find the style guide Interuniversity Style Guide for Writing Institutional Texts in English which aims to facilitate interuniversity communication and improve the quality of the institutional English-language documents we produce for international readers. 
+
+#### Guidelines for code documentation in GitHub:
+•	For the basic structure of your GitHub you can use [Cookiecutter](https://cookiecutter.readthedocs.io/en/latest/)
+•	You can find Notebook examples [here](https://github.com/DataScienceUB/introduction-datascience-python-book).
+•	For non-publicable projects: use private [Bitbucket](https://bitbucket.org/) repositories.
+
+
 ### Master’s Project Presentation:
 
 + Presentations will be 20 minutes for individual projects, 30 minutes for projects of 2 students and 40 minutes for projects of 3 students, followed by 10 minuts of quetsions.
