@@ -8,14 +8,12 @@ considered only in special cases. Projects will naturally be expected to require
 ### Stages of Development of Master’s Project
 + Form a team of 3 students.
 + Choose the prioritized list of projects. 
-+ The Master’s Project Coordinator (ligual@ub.edu) will assign you a project, by looking for a (maybe global) maximum of the function that represents your global preferences. 
++ The Master’s Project Coordinator (jvitria@ub.edu) will assign you a project, by looking for a (maybe global) maximum of the function that represents your global preferences. 
 + Discuss the research questions, goals, approach you intend to take, methodology, data needed and time plan with your project supervisor.  
 + Construct a logical outline for the project. Include analysis steps and expected outcomes. 
 + Define a clear role for all members of the group. This role will be considered in your personal student assessment.  
 + Fill in details of the project + role definition in a short document (max 2 pages). 
 + Hand in this document to your supervisors and start the project development! 
-
-The Master Project must be concluded before 1/7/2018. 
 
 The project delivery must include:
 + all code produced in a GitHub repository.
@@ -41,7 +39,7 @@ The quality of the projects will be graded by using three sources of information
 
 ### Project Proposals
 
-[Project Proposals 2017/1028](projects1718.md)
+[Project Proposals 2018/2019](projects1819.md)
 
 ### Master’s Project Report
 
@@ -55,6 +53,6 @@ The quality of the projects will be graded by using three sources of information
 
 + Presentations will be 20 minutes for individual projects, 30 minutes for projects of 2 students and 40 minutes for projects of 3 students, followed by 10 minuts of quetsions.
 
-[Dates and evaluation committees for the defense of TFM (July 2017/1028)](1718-TFM-Defense-July.pdf)
+[Dates and evaluation committees for the defense of TFM (July 2018/2019)](TBD)
 
-[Dates and evaluation committees for the defense of TFM (September 2017/1028)](1718-TFM-Tribunal-Sept.pdf)
+[Dates and evaluation committees for the defense of TFM (September 2018/2019)](TBD)
