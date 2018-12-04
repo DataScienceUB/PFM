@@ -31,13 +31,13 @@ The quality of the projects will be graded by using three sources of information
 + [Peer-evaluation](https://docs.google.com/document/d/1iYwW6xOXSaQ9ApzYHpk-GdLONF9VGV17rOod2ifFkQs/edit?usp=sharing). Team members will assess other members of the team as well as themselves. Peer assessment provides data that will be used in assigning individual grades for team members.
 
 ### Calendar (2017/2018)
-+ Feb. 16: Limit for official course enrollment.
-+ Feb. 19 - 23: Period for sending us your project priorities by grups. 
-+ Feb. 26: Assignment of projects & supervisors to student groups.
-+ Mar. 2: Limit for delivering the project proposal short document to your advisors.
-+ May 15: Limit for informing (via email to ligual@ub.edu) if you will present the TFM in July or September.
-+ Jul. 1 & Set 1: Limit for final delivery of your project. Use Campus Virtual Task.
-+ Jul. 9-20 & Set 12-28: Presentations.
++ Dec. 21: Deadline for sending us your project priorities by grups. 
++ Jan. 15: Assignment of projects & supervisors to student groups.
++ Jan. 22: Limit for delivering the project proposal short document to your advisor.
++ Jan 23 - Jul. 1 / Set. 1: Period of development of your project.
++ May 1: Limit for informing (via Campus Virtual task) if you will present the TFM in July or September.
++ Jul. 1 & Set. 1: Limit for final delivery of your project (via Campus Virtual task).
++ Jul.TBD & Set. TBD: Presentations.
 
 ### Project Proposals
 
