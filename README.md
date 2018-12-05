@@ -29,7 +29,7 @@ The quality of the projects will be graded by using three sources of information
 
 ### Calendar (2018/2019)
 + Dec. 4: First follow up meeting
-+ Dec. 21: Deadline for sending your project priorities. Please, fill in this form:  
++ Dec. 21: Deadline for sending your project priorities. Please, fill in this form: [https://goo.gl/forms/Cgz7dWMeL72LclHl2](https://goo.gl/forms/Cgz7dWMeL72LclHl2)
 + Jan. 15: Assignment of projects & supervisors to student groups.
 + Jan. 22: Limit for delivering the project proposal short document to your advisor.
 + Jan 23 - Jul. 1 / Set. 1: Period of development of your project.
