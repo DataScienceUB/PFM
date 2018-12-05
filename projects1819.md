@@ -184,7 +184,7 @@ TFM for one student.
 
 ## Automatic Document Reader Platform
  
-Advisor: Accentur 
+Advisor: Accenture (contact: jordi.vitria@ub.edu)
 
 Description:
 The aim is to build a frontend (visualization in Shiny) and backend (analytics tool in Python) to enable fast prototyping of ad-hoc solutions of document reading (OCR, Optical Character Recognition).
@@ -198,7 +198,7 @@ Practical Information:
 
 ## Application of variants of Long Short-Term Memory (LSTM) algorithms to high resolution spectral time series.
 
-Advisor: Accentur 
+Advisor: Accenture (contact: jordi.vitria@ub.edu)
 
 Description:
 LSTM and Nested LSTMs, as well as other types of Recurrent Neural Networks, can deal with processes occurring at arbitrary time scales which is the main requirement in industrial areas like Predictive Asset Maintenance.
@@ -214,7 +214,7 @@ Practical Information:
 
 ## Hybrid application approach of sonic and vibrational techniques for early failure detection in pumps and high rotation speed engines
 
-Advisor: Accentur 
+Advisor: Accenture (contact: jordi.vitria@ub.edu)
 
 Description:
 Advanced spectral analysis techniques allow reliability engineers to precisely identify quite a large number of failure modes in rotating engines (motors, pumps, gearboxes, turbines, etc.). However, the different types of sensors are not equally suited for all failure modes, ranges of analysis and equipment, and new insights from a Data Science perspective are needed for discovering new analytical approaches, especially when high frequency ranges of analysis are required.
