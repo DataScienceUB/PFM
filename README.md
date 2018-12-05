@@ -7,17 +7,17 @@ In most of the cases, the Master Project is a teamwork project of `n` students w
 ### Stages of Development of Master’s Project
 + Form a team of 1-5 students.
 + Choose the prioritized list of projects. 
-+ The Master’s Project Coordinator [jvitria@ub.edu](jvitria@ub.edu) will assign you a project, by looking for a (maybe global) maximum of the function that represents your global preferences. 
++ The Master’s Project Coordinator, Jordi Vitrià (`jvitria@ub.edu`) will assign you a project, by looking for a (maybe global) maximum of the function that represents your global preferences. 
 + Discuss the research questions, goals, approach you intend to take, methodology, data needed and time plan with your project supervisor.  
 + Construct a logical outline for the project. Include analysis steps and expected outcomes. 
 + Define a clear role for all members of the group. This role will be considered in your personal student assessment.  
 + Fill in details of the project + role definition in a short document (max 2 pages). 
 + Hand in this document to your supervisors and start the project development! 
 
-The project delivery must include:
-+ all code produced in a GitHub repository.
+The final project delivery must include:
++ all code produced in a GitHub (or similar) software repository.
 + a project report (see the Report Template directory). 
-+ a high level description of the completed project (jupyter notebook and/or blog entry)
++ a high level description of the completed project (jupyter notebook and/or blog entry). 
 
 See this example: https://github.com/axelbrando/Mixture-Density-Networks-for-distribution-and-uncertainty-estimation
 
