@@ -24,12 +24,12 @@ See this example: https://github.com/axelbrando/Mixture-Density-Networks-for-dis
 ### Project Assessment
 The quality of the projects will be graded by using three sources of information:
 + The delivered information at the end of the project.  We will use a [“Project Evaluation Rubric”](https://docs.google.com/spreadsheets/d/1g9foCpIxRSuA414hjeqWZNniJl_QC81W2x0P44_kngw/edit?usp=sharing) to assign a mark to the project.
-+ A presentation of your project. Your presentation should be professional enough to give at a technical conference (e.g. organized approach, prepared slides, a short demo or video if appropriate). 
++ The public presentation of your project. Your presentation should be professional enough to give at a technical conference (e.g. organized approach, prepared slides, a short demo or video if appropriate). 
 + [Peer-evaluation](https://docs.google.com/document/d/1iYwW6xOXSaQ9ApzYHpk-GdLONF9VGV17rOod2ifFkQs/edit?usp=sharing). Team members will assess other members of the team as well as themselves. Peer assessment provides data that will be used in assigning individual grades for team members.
 
-### Calendar (2017/2018)
+### Calendar (2018/2019)
 + Dec. 4: First follow up meeting
-+ Dec. 21: Deadline for sending us your project priorities by grups. 
++ Dec. 21: Deadline for sending your project priorities. Please, fill in this form:  
 + Jan. 15: Assignment of projects & supervisors to student groups.
 + Jan. 22: Limit for delivering the project proposal short document to your advisor.
 + Jan 23 - Jul. 1 / Set. 1: Period of development of your project.
