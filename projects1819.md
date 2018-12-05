@@ -1,8 +1,8 @@
 
 
-## Title: Agent-based models for assessing the risk of default propagation in interconnected sectorial financial networks
+## Agent-based models for assessing the risk of default propagation in interconnected sectorial financial networks
 
-Advisor: Jordi Nin
+Advisor: Jordi Nin (jordi.nin@gmail.com)
 
 Description: 
 Interconnected sectorial financial networks are the substrate for economic agents. One of the main questions nowadays is to understand how systemic risk can raise in financial network. Systemic risk is understood as the probability of large cascades of entangled economic events triggered by causes that range from exogenous shocks to endogenous defaults. The succession of defaults can jeopardize the full system. The interplay between the topology of the underlying interaction network and the easiness of events to propagate has proven to be essential to understand the proportion of the financial system affected by default avalanches and to assess the systemic risk. Avalanches in financial systems are understood as dynamical processes that correlate individual economic states of the agents when a triggering stress event materializes.
@@ -17,9 +17,9 @@ The project will be developed by 3 students with the following tasks:
 - Optional: Scientific Publication  (Student 1-3)
 
 
-## Project: Endoluminal image classification.
-
-Advisor: Santi Seguí 
+## Endoluminal image classification.
+ 
+Advisor: Santi Seguí (santi.segui@ub.edu)
 
 Capsule endoscopy is a procedure that uses a tiny wireless camera to take pictures of your digestive tract. A wireless capsule endoscopy (WCE) camera sits inside a vitamin-size capsule you swallow and takes more than 50.000 images which are sent to an external device in order to be analyzed. 
 
@@ -35,7 +35,7 @@ Practical Information:
 +	Possibility to continue the project after the end Master’s Thesis with a 3 years PhD grant
 
 
-## Project: Machine learning algorithms for detecting re-identification risks in anonymized data
+## Machine learning algorithms for detecting re-identification risks in anonymized data
 
 Supervision: Dr. Francesco Bonchi (www.francescobonchi.com)
 Period: January - June 2019
@@ -70,10 +70,9 @@ Practical Information:
 + This project will be developed in Eurecat, Barcelona (www.eurecat.org)
 
 
+## Explainable systems for place characterization
 
-## Title: Explainable systems for place characterization
-
-Advisor: Mireia Ribera & Àgata Lapedriza 
+Advisor: Mireia Ribera (ribera@ub.edu) & Àgata Lapedriza (alapedriza@uoc.edu)
 
 2 students
 
@@ -106,9 +105,9 @@ Gilpin et al “Explaining  explanations” (2018) https://arxiv.org/abs/1806.00
 This project is coadvised by Mireia Ribera (UB) and Agata Lapedriza (UOC-MIT).
 
 
-## Project: Man-made structures detection from space.
+## Man-made structures detection from space.
 
-Advisor: Jordi Vitrià
+Advisor: Jordi Vitrià (jordi.vitria@ub.edu)
 
 With the development of affordable and recurrent remote sensing technology, we can now access frequent geospatial information in different levels of detail, ranging from 100m to 0.01m.  The task of detecting various types of man-made structure and man-induced change has become a key problem in remote sensing image analysis. 
 
@@ -125,9 +124,9 @@ Practical Information:
 + Tasks: 1) To study deep learning detection methods / 2) Develop an image signature based on deep learning low-level features / 3) Design and implement an empirical demonstration of the project's hypothesis.
 
 
-## Project: Data Science to expand the bioactive chemical space
+## Data Science to expand the bioactive chemical space
 
-Advisor: Patrick Aloy (IRB), Jordi Vitrià
+Advisor: Patrick Aloy (IRB), Jordi Vitrià (jordi.vitria@ub.edu)
 
 Biological data is accumulating at an unprecedented rate, escalating the role of data-
 driven methods in computational drug discovery. The urge to couple biological data to
@@ -162,7 +161,7 @@ Practical Information:
 
 ## Large-Scale Support Vector Machine Learning using data statistical description
 
-Advisor: Lluís Garrido & Arturo Vieiro 
+Advisor: Lluís Garrido (lluis.garrido@ub.edu) & Arturo Vieiro (vieiro@ub.edu)
 
 The Support Vector Machine (SVM) is a widely used kernel learning algorithm. It
 is able to achieve robust pattern recognition using well established concepts
@@ -183,7 +182,7 @@ performed in the dual space.
 TFM for one student.
 
 
-## TFM: Automatic Document Reader Platform
+## Automatic Document Reader Platform
  
 Advisor: Accentur 
 
@@ -192,6 +191,7 @@ The aim is to build a frontend (visualization in Shiny) and backend (analytics t
 The goal is to digitize relevant contents from scanned documents, both in handwritten and typewritten format.
 One will start from existing use cases already developed in our center, that include a backend both open-source OCR solutions and our own deep learning OCR code, and also an existing visualization tool.
 New open-source codes in the field of RNN Deep Learning nets would be leveraged as well.
+
 Practical Information:
 + This is a project for a team of 2 persons.
 + This project will be developed in Accenture, Barcelona
@@ -207,6 +207,7 @@ We propose the candidate to explore state-of-the-art new techniques to identify 
 References:
 - Moniz, J.R.A & D. Krueger. (2017). Nested LSTMs. Proceeding in Machine Learning Research 77: 530-544. http://proceedings.mlr.press/v77/moniz17a/moniz17a.pdf
 - Rupesh, K.G., K. Srivastava, J. Koutník, B.R. Steunebrink and J. Schmidhuber. (2017). LSTM: A Search Space Odyssey. Transactions on Neural Networks and Learning Systems. https://arxiv.org/pdf/1503.04069
+
 Practical Information:
 + This is an individual project.
 + This project will be developed in Accenture, Barcelona
@@ -227,18 +228,18 @@ Practical Information:
 + This project will be developed in Accenture, Barcelona
 
 
-## Títol: Uncovering the role of airborne microbes in Kawasaki Disease
+## Uncovering the role of airborne microbes in Kawasaki Disease
 
-Advisor: Xavier Rodó (ISGlobal) and Santi Seguí
+Advisor: Xavier Rodó (ISGlobal) and Santi Seguí (santi.segui@ub.edu)
 
 Rationale: Kawasaki disease (KD) is a long known self-limited vasculitis of unknown origin that affects children worldwide, and that may have serious consequences if left untreated. It was discovered by Dr. Kawasaki in the 1960s and genètic susceptibility has been claimed as an underlying predisposing factor. However, in the last few years a consortium led by the ISGlobal Climate & Health Program has set the basis for a revolutionary hypothesis pointing to an airborne cause of this mysterious syndrome.
 The current proposal seeks to test whether air quality, in particular bacteria and fungi, can lie at the basis of KD etiology. A weekly record of unprecedented air samples taken in Japan in 2014 and 2015, covering 1,5 years has been fully analyzed for its biological composition and air chemistry. The student will have at hand an extense data base of over 2000 species in total and the objective is to check what relationships there are among individual or clústers of species, with KD incidence. To accomplish these objectives, it is expected that the datasets can be analyzed with a variety of classification, ordination and other data statistical techniques.
 This project will be develop by a group of 1-3 students in ISGlobal.
 
 
-## Títol: What data analyses can tell us about the Dynamics and etiology of Kawasaki disease in Japan?
+## What data analyses can tell us about the Dynamics and etiology of Kawasaki disease in Japan?
 
-Advisor: Xavier Rodó (ISGlobal) and Santi Seguí
+Advisor: Xavier Rodó (ISGlobal) and Santi Seguí (santi.segui@ub.edu)
 
 Rationale: Kawasaki disease (KD) is a long known self-limited vasculitis of unknown origin that affects children worldwide, and that may have serious consequences if left untreated. It was discovered by Dr. Kawasaki in the 1960s and genètic susceptibility has been claimed as an underlying predisposing factor. However, in the last few years a consortium led by the ISGlobal Climate & Health Program has set the basis for a revolutionary hypothesis pointing to an airborne cause of this mysterious syndrome.
 The current proposal seeks to uncover what differences there are in KD population epidemiology among the 47 prefectures in Japan for an unprecedented record of daily incidence covering the interval 1970-2016. Timeseries analyses and spatial classification and data ordination techniques will be needed to explain what patterns in both space and time the disease epidemiology describes, provided there are known spatial (e.g. North-South of the Japanese archipelago) and temporal differences (changes among the seasonal paterns in distant prefectures, delays among the three main epidèmics among diferent prefectures, etc...) The candidate will have to work also with both atmospheric and aerosol time series of data at the scale of the same prefectures in the search for consistent covarying environmental-disease dynamics.
@@ -247,7 +248,7 @@ This project will be develop by a group of 1-3 students in ISGlobal.
 
 ## Multi-modal group behavior and interaction analysis 
 
-Advisor: Sergio Escalera
+Advisor: Sergio Escalera (sescalera@ub.edu)
 
 The study of how human beings react to the environment and interact with it and each other is an ongoing research line in the computer vision and machine learning communities. Domains such as social signal processing and affective computing aim at understanding and modeling interactions by extracting audio-visual social signals and correlate them to bigger constructs such as dominance or personality, among others. 
 
@@ -270,7 +271,7 @@ References:
 
 ## Video Summarization personalized to Visual Disabilities
 
-Advisor: Sergio Escalera & Mireia Ribera 
+Advisor: Sergio Escalera (sescalera@ub.edu) & Mireia Ribera (ribera@ub.edu)
 
 Video summarization aims at summarizing most relevant information from a video just in few “keyframes”. Applications are countless, including video indexing and retrieval, TV news summarization, sport summarization, video summarization in medical treatments, or risk event detection in health and surveillance scenarios, just to mention a few.  Video is becoming the most prominent media format in many contexts.
 
@@ -301,9 +302,7 @@ References
 
 ## Applyig Deep Learning to Analyze Lifestyle in Egocentric images
 
-Advisor: Petia Radeva
-
-radevap@gmail.com, Petia.ivanova@ub.edu
+Advisor: Petia Radeva (radevap@gmail.com, Petia.ivanova@ub.edu)
 
 Description
  
@@ -317,13 +316,11 @@ Computational Vision, Machine learning, Python
 
 ## Applying Deep Learning for Food image Analysis
 
-Advisor: Petia Radeva
+Advisor: Petia Radeva (radevap@gmail.com, Petia.ivanova@ub.edu)
 
-radevap@gmail.com, Petia.ivanova@ub.edu
 Description
  
 Today, Deep learning achieved outstanding results surpassing humans in many tasks as object recognition, lip reading, facial recognition, license plate readers, traffic violations detection, or breast tomosynthesis diagnosis. However, the food image analysis field is far unexplored. In this project, the Master student will explore Deep learning techniques to process food images and textual data (recipes, comments, etc.) in order to address problems as food recognition or food segmentation. We will explore new techniques for domain adaptation to transfer knowledge from different domains and improve food analysis.
-
 
 According to the results, the Master thesis will be integrated in an European project where we collaborate with several European teams to validate our algorithms in real situation, like analyzing nutrition of patients with kidney transplant.
 
