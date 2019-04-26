@@ -1,7 +1,8 @@
 ## CONFIDENTIAL DISCLOSURE AGREEMENT
 
-	WHEREAS, _________________ ("COMPANY"), having its principal place of business in ________________, __, has certain confidential information relating to its business and operations ("INFORMATION"), and desires to disclose the same to Duke University ("RECIPIENT") having a principal place of business in Durham, North Carolina and;
-	WHEREAS, the RECIPIENT is interested in receiving the INFORMATION for study by its student(s) ______________, _____________, _____________ in furtherance of RECIPIENT’S educational mission and the named students’ Master Thesis (“PROJECT”).
+WHEREAS, _________________ ("COMPANY"), having its principal place of business in ________________, __, has certain confidential information relating to its business and operations ("INFORMATION"), and desires to disclose the same to Duke University ("RECIPIENT") having a principal place of business in Durham, North Carolina and;
+
+WHEREAS, the RECIPIENT is interested in receiving the INFORMATION for study by its student(s) ______________, _____________, _____________ in furtherance of RECIPIENT’S educational mission and the named students’ Master Thesis (“PROJECT”).
 	NOW, THEREFORE, the parties hereby agree to the following terms and conditions:
   
 1.	COMPANY shall disclose the INFORMATION to the RECIPIENT in sufficient detail to enable the RECIPIENT to fully evaluate the same for the purpose of the PROJECT.
@@ -19,33 +20,27 @@ d)	 is approved for release by written authorization of the COMPANY.
 
 
 
-	IN WITNESS WHEREOF, the parties have signed or caused this agreement to be signed as of the dates indicated below.
+IN WITNESS WHEREOF, the parties have signed or caused this agreement to be signed as of the dates indicated below.
 
 
 
-COMPANY					RECIPIENT:
+COMPANY					
+By: ________________________		
+Name:							
+Title:						
+Date signed: _________________		
+
+RECIPIENT:
+By: ________________________		
+Name:							
+Title:						
+Date signed: _________________		
+
+STUDENT					
+By:__________________________		
+Name:						
+Date:						
 
 
-By: ________________________		By: ________________________
-Name:						Name:	
-Title:						Title:	
-Date signed: _________________		Date signed:  _________________
 
-
-
-STUDENT					STUDENT
-
-
-By:__________________________		By:___________________________
-Name:						Name:
-Date:						Date:
-
-
-
-STUDENT
-
-
-By:__________________________
-Name:	
-Date:	
 
