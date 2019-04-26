@@ -25,7 +25,9 @@ IN WITNESS WHEREOF, the parties have signed or caused this agreement to be signe
 COMPANY:			
 
 By: ________________________		
+
 Name:							
+
 Title:		
 
 Date signed: _________________		
@@ -33,7 +35,9 @@ Date signed: _________________
 RECIPIENT:
 
 By: ________________________		
+
 Name:							
+
 Title:						
 
 Date signed: _________________		
@@ -41,8 +45,10 @@ Date signed: _________________
 STUDENT:
 
 By:__________________________		
+
 Name:						
-Date:						
+
+Date:	_________________							
 
 
 
