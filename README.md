@@ -33,7 +33,7 @@ The quality of the projects will be graded by using three sources of information
 + Jan. 15: Assignment of projects & supervisors to student groups.
 + Jan. 22: Limit for delivering the project proposal short document to your advisor.
 + Jan 23 - Jul. 1 / Set. 1: Period of development of your project.
-+ Jun. 1: Limit for informing (via Campus Virtual task) if you will present the TFM in July or September.
++ Jun. 1: Limit for informing if you will present the TFM in July or September.
 + Jul. 1 & Set. 1: Limit for final delivery of your project (via Campus Virtual task).
 + Jul. TBD & Set. TBD: Presentations.
 
