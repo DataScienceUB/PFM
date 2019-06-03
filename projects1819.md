@@ -1,3 +1,23 @@
+## Assignment
+
+| Student   |      Master Thesis      |  Advisors |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
+Student	Master Thesis	Advisors
+Núria Valls, Albert Prat	Particle Swarm Optimization	Gerard Gomez
+Marco Remane	IOMed	Santi Seguí
+Daniel Soler	Nostrum Biodiscovery	Jordi Vitrià
+Ramon Mir Mora, Sergi Sánchez de la Blanca Contreras, Philippe van Amerongen	Agent-based models for assessing the risk of default propagation in interconnected sectorial financial networks.	Jordi Nin
+Tom Rolandus Hagedoorn	Machine learning algorithms for detecting re-identification risks in anonymized data.	Francesco Bonchi (Tutor: Jordi Vitrià)
+Cristina Rosich Solé, Adrian Dueñas Pelaez	Uncovering the role of airborne microbes in Kawasaki Disease.	Xavier Rodó (ISGlobal) and Santi Seguí
+Rubén Barco Terrones, Aleix Casellas Comas, Andreu Masdeu Ninot, Pablo Lázaro Herrasti	Multi-modal group behavior and interaction analysis.	Sergio Escalera
+Gerard Marrugat	Applying Deep Learning for Food image Analysis.	Petia Radeva
+Èlia Ficapal Vila, Stefan Ivanov	Endoluminal image classification	Santi Seguí
+Spela Zavodnik, Alejandro Castelo	Data Science to expand the bioactive chemical space.	Jordi Vitrià
+Peter Weber, Alberto Huélamo-Segura, Eduard Ribas	Man-made structures detection from space.	Jordi Vitrià
 
 
 ## Agent-based models for assessing the risk of default propagation in interconnected sectorial financial networks
