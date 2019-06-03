@@ -1,4 +1,4 @@
-## Assignment
+# Final Assignment
 
 | Student   |      Master Thesis      |  Advisors |
 |----------|:-------------:|------:|
@@ -17,7 +17,7 @@
 
 
 
-
+# Original Proposals
 
 
 ## Agent-based models for assessing the risk of default propagation in interconnected sectorial financial networks
