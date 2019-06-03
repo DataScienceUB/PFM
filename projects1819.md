@@ -1,6 +1,6 @@
 # Final Assignment
 
-| Student   |      Master Thesis      |  Advisors |
+| Students   |      Master Thesis      |  Advisors |
 |----------|:-------------:|------:|
 | Núria Valls, Albert Prat	 |  Particle Swarm Optimization | Gerard Gomez |
 | Marco Remane |	IOMed	| Santi Seguí |
