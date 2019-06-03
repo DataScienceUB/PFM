@@ -1,7 +1,7 @@
 # Presentations & Committees
 
 | Student   |      Title      |  Date |
-|----------|:-------------:|------:|
+|----------|:-------------:|------------:|
 | Núria Valls, Albert Prat	 |  Particle Swarm Optimization | July TBD |
 |  Ramon Mir Mora, Sergi Sánchez de la Blanca Contreras, Philippe van Amerongen	| Agent-based models for assessing the risk of default propagation in interconnected sectorial financial networks.	| July TBD  |
 |  Tom Rolandus | Hagedoorn	Machine learning algorithms for detecting re-identification risks in anonymized data. |	July TBD  |
