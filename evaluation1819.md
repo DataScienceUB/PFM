@@ -18,3 +18,5 @@
 |  Gerard Marrugat	| Applying Deep Learning for Food image Analysis.	| September TBD  |
 |  Spela Zavodnik, Alejandro Castelo	| Data Science to expand the bioactive chemical space.	| September TBD  |
 | Alberto Huélamo-Segura | Tile embedding | September TBD |
+| Jordi Aranda | Time Series Forecasting with Gaussian Processes | September TBD |
+| Pilar Santolaria | TBD | September TBD |
