@@ -7,7 +7,7 @@
 |  Tom Rolandus | Hagedoorn	Machine learning algorithms for detecting re-identification risks in anonymized data. |	10 July (tentative)  |
 |  Èlia Ficapal Vila, Stefan Ivanov	| Endoluminal image classification	| 10 July (tentative)  |
 |  Peter Weber, Eduard Ribas	| Man-made structures detection from space.	| 10 July (tentative) |
-|  Alejandro Castelo	| Data Science to expand the bioactive chemical space.	| September TBD  |
+|  Alejandro Castelo	| Data Science to expand the bioactive chemical space.	| 10 July (tentative)  |
 
 
 | Student   |      Title      |  Date |
