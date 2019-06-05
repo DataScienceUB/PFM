@@ -2,10 +2,10 @@
 
 | Student   |      Title      |  Date |
 |----------|:-------------:|------------:|
-| Núria Valls, Albert Prat	 |  Particle Swarm Optimization | 10 July (tentative) |
+| Núria Valls, Albert Prat	 |  Particle Swarm Optimization | 10 July |
 |  Ramon Mir Mora, Sergi Sánchez de la Blanca Contreras, Philippe van Amerongen	| Agent-based models for assessing the risk of default propagation in interconnected sectorial financial networks.	| 10 July (tentative)  |
-|  Tom Rolandus | Hagedoorn	Machine learning algorithms for detecting re-identification risks in anonymized data. |	10 July (tentative)  |
-|  Èlia Ficapal Vila, Stefan Ivanov	| Endoluminal image classification	| 10 July (tentative)  |
+|  Tom Rolandus | Hagedoorn	Machine learning algorithms for detecting re-identification risks in anonymized data. |	10 July   |
+|  Èlia Ficapal Vila, Stefan Ivanov	| Endoluminal image classification	| 10 July  |
 |  Peter Weber, Eduard Ribas	| Man-made structures detection from space.	| 10 July (tentative) |
 |  Alejandro Castelo	| Data Science to expand the bioactive chemical space.	| 10 July (tentative)  |
 
