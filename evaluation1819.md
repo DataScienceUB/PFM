@@ -7,6 +7,7 @@
 |  Tom Rolandus | Hagedoorn	Machine learning algorithms for detecting re-identification risks in anonymized data. |	10 July (tentative)  |
 |  Èlia Ficapal Vila, Stefan Ivanov	| Endoluminal image classification	| 10 July (tentative)  |
 |  Peter Weber, Eduard Ribas	| Man-made structures detection from space.	| 10 July (tentative) |
+|  Alejandro Castelo	| Data Science to expand the bioactive chemical space.	| September TBD  |
 
 
 | Student   |      Title      |  Date |
@@ -16,7 +17,7 @@
 |  Cristina Rosich Solé, Adrian Dueñas Pelaez	| Uncovering the role of airborne microbes in Kawasaki Disease.	| September TBD  |
 |  Rubén Barco Terrones, Aleix Casellas Comas, Andreu Masdeu Ninot, Pablo Lázaro Herrasti	| Multi-modal group behavior and interaction analysis.	| September TBD  |
 |  Gerard Marrugat	| Applying Deep Learning for Food image Analysis.	| September TBD  |
-|  Spela Zavodnik, Alejandro Castelo	| Data Science to expand the bioactive chemical space.	| September TBD  |
+|  Spela Zavodnik	| Data Science to expand the bioactive chemical space.	| September TBD  |
 | Alberto Huélamo-Segura | Tile embedding | September TBD |
 | Jordi Aranda | Time Series Forecasting with Gaussian Processes | September TBD |
-| Pilar Santolaria | TBD | September TBD |
+| Pilar Santolaria | Product demand prediction in a C2C marketplace  | September TBD |
