@@ -13,7 +13,7 @@
 | Student   |      Title      |  Date |
 |----------|:-------------:|------:|
 | Marco Remane |	IOMed	| September TBD |
-|  Daniel Soler	| Nostrum Biodiscovery	| September TBD  |
+|  Daniel Soler	| Semi-supervised generative models for drug discovery	| September TBD  |
 |  Cristina Rosich Solé, Adrian Dueñas Pelaez	| Uncovering the role of airborne microbes in Kawasaki Disease.	| September TBD  |
 |  Rubén Barco Terrones, Aleix Casellas Comas, Andreu Masdeu Ninot, Pablo Lázaro Herrasti	| Multi-modal group behavior and interaction analysis.	| September TBD  |
 |  Gerard Marrugat	| Applying Deep Learning for Food image Analysis.	| September TBD  |
