@@ -21,3 +21,5 @@
 | Alberto Huélamo-Segura | Tile embedding | September TBD |
 | Jordi Aranda | Time Series Forecasting with Gaussian Processes | September TBD |
 | Pilar Santolaria | Product demand prediction in a C2C marketplace  | September TBD |
+| Toni Miranda | Anomaly detection in ID documents  | September TBD |
+
