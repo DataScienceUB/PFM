@@ -24,7 +24,7 @@
 | Date: 10.07.2019, 12 to 14h | 
 
 
-# Presentations & Committees (September)
+## Presentations & Committees (September)
 
 
 
