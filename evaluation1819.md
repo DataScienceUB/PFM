@@ -10,15 +10,15 @@
 |  Alejandro Castelo	| Data Science to expand the bioactive chemical space.	| Room T2, 10 July, 11:40 a.m.   |
 
 
-Tribunal 1
-Projectes: 1 - 3 - 4
-Membres del tribunal: Jordi Vitrià, Mireia Ribera, Arturo Vieiro
-Data: 10 de juliol de 10 a 12h.
+| Tribunal 1| 
+| Projectes: 1 - 3 - 4 | 
+| Membres del tribunal: Jordi Vitrià, Mireia Ribera, Arturo Vieiro | 
+| Data: 10 de juliol de 10 a 12h. | 
 
-Tribunal 2
-Projectes: 2 – 5 - 6
-Membres del tribunal:  Santi Seguí, Lluis Garrido, Eloi Puertas, 
-Data: 10 de juliol de 12 a 14h
+| Tribunal 2 | 
+| Projectes: 2 – 5 - 6 | 
+| Membres del tribunal:  Santi Seguí, Lluis Garrido, Eloi Puertas, | 
+| Data: 10 de juliol de 12 a 14h | 
 
 
 # Presentations & Committees (September)
