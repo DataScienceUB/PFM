@@ -1,4 +1,4 @@
-# Presentations & Committees (July)
+# Presentations (July)
 
 | Student   |      Title      |  Where & When |
 |----------|:---------:|----------:|
@@ -9,13 +9,16 @@
 |  Peter Weber, Eduard Ribas	| Man-made structures detection from space.	| Room T2, 10 July, 10:50 a.m.  |
 |  Alejandro Castelo	| Data Science to expand the bioactive chemical space.	| Room T2, 10 July, 11:40 a.m.   |
 
+# Committees (July)
 
 | Tribunal 1| 
+|----------|
 | Projectes: 1 - 3 - 4 | 
 | Membres del tribunal: Jordi Vitrià, Mireia Ribera, Arturo Vieiro | 
 | Data: 10 de juliol de 10 a 12h. | 
 
 | Tribunal 2 | 
+|----------|
 | Projectes: 2 – 5 - 6 | 
 | Membres del tribunal:  Santi Seguí, Lluis Garrido, Eloi Puertas, | 
 | Data: 10 de juliol de 12 a 14h | 
