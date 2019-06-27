@@ -20,7 +20,7 @@
 |----------|
 | Projects: 2 – 4 - 5 | 
 | Members:  Santi Seguí, Lluis Garrido, Eloi Puertas, | 
-| Date: 10.07.2019, 12 to 14h | 
+| Date: 10.07.2019, 10 to 12h | 
 
 
 ## Presentations & Committees (September)
