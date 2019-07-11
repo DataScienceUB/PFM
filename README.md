@@ -7,7 +7,7 @@ In most of the cases, the Master Project is a teamwork project of `n` students w
 ### Stages of Development of Master’s Project
 + Form a team of 1-5 students.
 + Choose the prioritized list of projects. 
-+ The Master’s Project Coordinator, Jordi Vitrià (`jvitria@ub.edu`) will assign you a project, by looking for a (maybe global) maximum of the function that represents your global preferences. 
++ The Master’s Project Coordinator, Laura Igual (`ligual@ub.edu`) will assign you a project, by looking for a (maybe global) maximum of the function that represents your global preferences. 
 + Discuss the research questions, goals, approach you intend to take, methodology, data needed and time plan with your project supervisor.  
 + Construct a logical outline for the project. Include analysis steps and expected outcomes. 
 + Define a clear role for all members of the group. This role will be considered in your personal student assessment.  
