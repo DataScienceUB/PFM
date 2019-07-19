@@ -35,13 +35,10 @@
 |  Cristina Rosich Solé, Adrian Dueñas Pelaez	| Uncovering the role of airborne microbes in Kawasaki Disease.	| Committee 1 |
 |  Rubén Barco Terrones, Aleix Casellas Comas, Andreu Masdeu Ninot, Pablo Lázaro Herrasti	| Multi-modal group behavior and interaction analysis.	| Committee 1  |
 |  Gerard Marrugat	| Applying Deep Learning for Food image Analysis.	| Committee 1 |
-
-
 |  Daniel Soler	| Semi-supervised generative models for drug discovery	| Committee 2 |
 |  Spela Zavodnik	| Data Science to expand the bioactive chemical space.	| Committee 2  |
 | Alberto Huélamo-Segura | Tile embedding | Committee 2|
 | Jordi Aranda | Time Series Forecasting with Gaussian Processes | Committee 2|
-
 | Pilar Santolaria | Product demand prediction in a C2C marketplace  | Committee 3 |
 | Toni Miranda | Anomaly detection in ID documents  | Committee 3 |
 |  Tom Rolandus | Hagedoorn	Machine learning algorithms for detecting re-identification risks in anonymized data. |	Committee 3 |
