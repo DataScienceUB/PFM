@@ -61,4 +61,4 @@
 |----------|
 | Projects: 9 – 12 | 
 | Members:  Santi Seguí, Jose Fortiana, Lluís Garrido | 
-| Date: 09.09.2019, 15h to 17:15h, Room T1 | 
+| Date: 09.09.2019, 15h to 17:30h, Room T1 | 
