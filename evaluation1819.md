@@ -40,7 +40,7 @@
 | Pilar Santolaria | Product demand prediction in a C2C marketplace  | Committee 3 |
 | Toni Miranda | Anomaly detection in ID documents  | Committee 3 |
 |  Tom Rolandus | Hagedoorn	Machine learning algorithms for detecting re-identification risks in anonymized data. |	Committee 3 |
-| Nuria Nievas | TBD | 
+| Nuria Nievas | TBD | Committee 3 |
 
 
 ## Committees (September)
@@ -59,6 +59,6 @@
 
 | Committee 3 | 
 |----------|
-| Projects: 9 – 11 | 
+| Projects: 9 – 12 | 
 | Members:  Santi Seguí, Jose Fortiana, Lluís Garrido | 
 | Date: 09.09.2019, 15h to 17:15h, Room T1 | 
