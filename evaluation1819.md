@@ -40,7 +40,7 @@
 | Pilar Santolaria | Product demand prediction in a C2C marketplace  | Committee 3 |
 | Toni Miranda | Anomaly detection in ID documents  | Committee 3 |
 |  Tom Rolandus | Hagedoorn	Machine learning algorithms for detecting re-identification risks in anonymized data. |	Committee 3 |
-| Nuria Nievas | TBD | Committee 3 |
+| Nuria Nievas | Ant Colony Optimization for CVRP and 2L-CVRP | Committee 3 |
 
 
 ## Committees (September)
