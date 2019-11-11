@@ -1,5 +1,6 @@
 
-  *Aquesta és una versió preliminar, sense efectes fins que no sigui aprovada.*
+  *Normativa aprovada per la Comissió Acadèmica de la Facultat
+  de Matemàtiques i Informàtica, 2019.*
 
 
 # Màster Fonaments de Ciència de Dades
