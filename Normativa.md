@@ -3,7 +3,7 @@
 
 
 # Màster Fonaments de Ciència de Dades
-## Proposta de Normativa de TFM
+## Normativa de TFM
 
 D’acord amb el RD 1393/2007 i el RD 861/2010, els ensenyaments de màster han de concloure amb l’elaboració i la defensa pública 
 d’un treball de fi de màster (TFM). Aquest treball té la finalitat d’acreditar que l’estudiant ha integrat els coneixements apresos 
