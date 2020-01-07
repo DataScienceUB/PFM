@@ -29,7 +29,7 @@ The quality of the projects will be graded by using three sources of information
 
 ### Calendar (2019/2020)
 + Feb. 3: First follow up meeting
-+ Feb. 4: Deadline for sending your project priorities. Please, fill in this form: [https://goo.gl/forms/Cgz7dWMeL72LclHl2](https://goo.gl/forms/Cgz7dWMeL72LclHl2)
++ Feb. 4: Deadline for sending your project priorities. Please, fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSfQAFki1YXuK37cjgrIT52hnwF60kLAkh_SlsRVBnmoQ0GXOw/viewform?usp=pp_url)
 + Feb. 7: Assignment of projects & supervisors to student groups.
 + Feb. 14: Limit for delivering the project proposal short document to your advisor.
 + Feb 14 - Jul. 1: Period of development of your project.
