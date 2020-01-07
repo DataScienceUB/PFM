@@ -6,6 +6,7 @@
 Summary: Recent advances in machine learning have heavily influenced other areas of knowledge. One of these advances concerns the predictability of chaotic dynamical systems. Chaotic systems are characterized for presenting very different outcomes to very small variations of initial conditions. So far this looks quite abstract and complex, but is far easier. Recently, thanks to machine learning the horizon of prediction of chaotic dynamical systems has been extended by an order of magnitude. This incredible advance makes chaos far more predictable. See for reference https://www.quantamagazine.org/machine-learnings-amazing-ability-to-predict-chaos-20180418/. In this TFM we want to understand the basis of reservoir computing, the kind of technique that allows this incredible feature to be performed. We will apply this to a real scenario to define with the candidate.
 
 Advisor: Oriol Pujol
+
 Requirements: project for
 
 
@@ -17,6 +18,7 @@ To that end, we propose to perform a set of controlled experiments with healthy 
 RGB-Depth sensors will be used to capture visual information from the environment, and computer vision and machine learning approaches will be used to compute and analyse behaviour of the participants.
 
 Advisors: Ignasi Cos, Sergio Escalera
+
 Requirements: project for 2 students.
 
 
@@ -51,6 +53,7 @@ Hindriks R, Schmiedt J, Arsiwalla XD, Peter A, Verschure PFMJ, Fries P, Schmid M
 modeling of local field potentials recorded with intra-cortical electrode arrays. PLOS ONE 12:e0187490
 
 Advisor: Ignasi Cos
+
 Requirements: project for 2 students.
 
 
@@ -74,6 +77,7 @@ Modern culturing devices incorporate multiple cameras that continuously monitor 
 In this work, the student will have to learn, propose and apply different DNN models to the analysis of early-stage embryo images. The main objective is to automate the process of feature extraction-selection and learn models that potentially exploit all the information available in the images to assist physicians in the process of decision-making.
 
 Advisors: Jerónimo Hernández González (jeronimo.hernandez@ub.edu, momo@iiia.csic.es) & Jesús Cerquides Bueno (cerquide@iiia.csic.es)
+
 Requirements: individual project.
 
 ## Neural Natural Language Processing for prediction of political violence
@@ -87,6 +91,7 @@ Recently, neural methods have rushed the NLP landscape with models such as BERT 
 This project will be coordinated with Prof. Hannes Mueller of the Institut d’Anàlisi Econòmica and Prof. Christopher Rauh from University of Montreal.
 
 Advisors: Jerónimo Hernández González (jeronimo.hernandez@ub.edu, momo@iiia.csic.es) & Jesús Cerquides Bueno (cerquide@iiia.csic.es)
+
 Requirements: individual project.
 
 
@@ -97,6 +102,7 @@ The Viola-Jones algorithm is still used in many applications. During the past ye
 The improvements of "face swapping" quality is starting to be problematic. Face detection is a crucial part needed in order to verify if a face was "swapped" or not in an image. We propose to first build a face detector which can be used, for example, as a pre-process to gather faces from a video stream. Then face identification can be done with a cropped image of the face.
 
 Advisors: Eloi Puertas & David Buchaca
+
 Requirements: project for 2 students
 
 
@@ -118,6 +124,7 @@ http://ucidatascienceinitiative.github.io/IntroToJulia/
 https://julia.quantecon.org/index_toc.html
 
 Advisors: Eloi Puertas & David Buchaca
+
 Requirements: project for 2 students
 
 
@@ -134,6 +141,7 @@ If interested, please contact karim.lekadir@ub.edu for more details.
 
 Advisors: Karim Lekadir, Oliver Diaz, Xenia Gkontra (Universitat de Barcelona). 
 Collaborations: Queen Mary University of London, UK (Steffen Petersen), University Medical Centre Hamburg-Eppendorf, Germany (Mahir Karakas), McGill University Health Centre, Canada (Matthias Friedrich) and Vall d’Hebron Hospital, Barcelona (José F. Rodríguez Palomares).
+
 Renumeration: 1,000 Euros for each student.
 
 
@@ -159,6 +167,7 @@ References:
 8.      Min, Weiqing, et al. "A survey on food computing." ACM Computing Surveys (CSUR) 52.5 (2019): 92.
 
 Advisor: petia Radeva
+
 Requirements: This project ideally should be developed by a team of 3 persons. In case the team is of less members it will be properly rescaled considering only some of the goals.
 
 
@@ -196,6 +205,7 @@ Kelly, P.; Marshall, S. J.; Badland, H.; Kerr, J.; Oliver, M.; Doherty, A. R.; F
 [Lonn’19] Lonn, Stefan, Petia Radeva, and Mariella Dimiccoli. "Smartphone picture organization: A hierarchical approach." Computer Vision and Image Understanding 187 (2019): 102789
 
 Advisors: Petia Radeva (UB), Catheryn Thonne (ISGlobal)  
+
 Requirements: This project ideally should be developed by a team of 3 persons. In case the team is of less members the project will be properly rescaled considering only some of the goals.
 
 ## Deep Learning with Noisy Labels
@@ -219,7 +229,9 @@ BIBLIOGRAPHY:
 3. Zhu et.al., A Generative Adversarial Approach for Zero-Shot Learning from Noisy Texts: CVPR02018.
 4. Xiao, et.al., Learning from Massive Noisy Labeled Data for Image Classification, CVPR’2019.
 
-Advisor: Petia RadevaRequirements: This project ideally should be developed by a team of 3 persons. In case the team is of less members the project will be properly rescaled considering only some of the goals. 
+Advisor: Petia Radeva
+
+Requirements: This project ideally should be developed by a team of 3 persons. In case the team is of less members the project will be properly rescaled considering only some of the goals. 
 
 
 
@@ -229,6 +241,7 @@ Rationale: Kawasaki disease (KD) is a long known self-limited vasculitis of unkn
 The current proposal seeks to test whether air quality, in particular the composition of metal elements, can be associated to KD etiology. A weekly record of unprecedented air samples taken in Japan in 2014 and 2015, covering 1,5 years has been fully derived for its air chemistry. Concomittantly other daily chemistry records will have to be compared to daily KD records as a proof-of-concept. The student will have at hand an extense database of over 50 different metal elements and the objective is to check what relationships there are among them and to understand which ones are associated among themselves and whether they are, on certain ocasions, associated also with KD incidence. To accomplish these objectives, it is expected that the datasets can be analyzed with a variety of classification, ordination and other data statistical techniques.
 
 Advisors: Xavier Rodó (ISGlobal) & Santi Seguí & Laura Igual
+
 Requirements: project for 1-2 students.
 
 
@@ -242,5 +255,6 @@ From data from the city of Barcelona (both from Barcelona City Council itself, f
 The proposal's developers (s) are expected to create a web environment that describes the work they have done.
 
 Advisors: Xavier Rodó (ISGlobal) & Santi Seguí & Laura Igual
+
 Requirements: project for 1-2 students.
 
