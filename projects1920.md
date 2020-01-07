@@ -64,6 +64,7 @@ The results of the continuous assessment will be publicly available in www.conta
 
 Advisors: Laura Igual (UB) & Miquel Ortega (ENT Foundation).
 Miquel Ortega studied physics at the UB and holds a PhD on Environmental Sciences from the UAB. He is currently working in ENT Foundation and leads the website “Contaminacio.Barcelona”. From 2016 to 2019 he was the main sustainability advisor of Barcelona City Council, where he was responsible for coordinating the development of pollution policies. 
+
 Requirements: project for 1-3 students.
 
 
