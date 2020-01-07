@@ -27,19 +27,19 @@ The quality of the projects will be graded by using three sources of information
 + The public presentation of your project. Your presentation should be professional enough to give at a technical conference (e.g. organized approach, prepared slides, a short demo or video if appropriate). 
 + [Peer-evaluation](https://docs.google.com/document/d/1iYwW6xOXSaQ9ApzYHpk-GdLONF9VGV17rOod2ifFkQs/edit?usp=sharing). Team members will assess other members of the team as well as themselves. Peer assessment provides data that will be used in assigning individual grades for team members.
 
-### Calendar (2018/2019)
-+ Dec. 4: First follow up meeting
-+ Dec. 21: Deadline for sending your project priorities. Please, fill in this form: [https://goo.gl/forms/Cgz7dWMeL72LclHl2](https://goo.gl/forms/Cgz7dWMeL72LclHl2)
-+ Jan. 15: Assignment of projects & supervisors to student groups.
-+ Jan. 22: Limit for delivering the project proposal short document to your advisor.
-+ Jan 23 - Jul. 1 / Set. 1: Period of development of your project.
+### Calendar (2019/2020)
++ Feb. 3: First follow up meeting
++ Feb. 4: Deadline for sending your project priorities. Please, fill in this form: [https://goo.gl/forms/Cgz7dWMeL72LclHl2](https://goo.gl/forms/Cgz7dWMeL72LclHl2)
++ Feb. 7: Assignment of projects & supervisors to student groups.
++ Feb. 14: Limit for delivering the project proposal short document to your advisor.
++ Feb 14 - Jul. 1: Period of development of your project.
 + Jun. 1: Limit for informing if you will present the TFM in July or September.
 + Jul. 1 & Set. 2: Limit for final delivery of your project (via Campus Virtual task).
 + Jul. TBD & Set. TBD: Presentations.
 
 ### Project Proposals
 
-[Project Proposals 2018/2019](projects1819.md)
+[Project Proposals 2019/2020](projects1920.md)
 
 ### Master’s Project Report
 
