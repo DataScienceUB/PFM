@@ -34,7 +34,7 @@ We are also looking for **longer-term involvement** if the candidate/s are inter
 
 Advisors: Kevin Schädler & Jordi Vitrià
 
-Requirements: project for one person.
+Requirements: project for one student.
 
 
 ## Predicting Chaos
@@ -42,7 +42,7 @@ Summary: Recent advances in machine learning have heavily influenced other areas
 
 Advisor: Oriol Pujol
 
-Requirements: project for
+Requirements: project for one student.
 
 
 ## From the Visual Analysis of Movement to Principled Models of Motivated Movement
@@ -96,12 +96,15 @@ Requirements: project for 2 students.
 
 Next January 1st the new Barcelona Low Emissions Zone (LEZ) will enter into force (https://www.zbe.barcelona/). This means that most polluting vehicles will not be able to circulate in an area of more than 95 km2, inside the Barcelona Ring Roads. 
 Evaluating the success/failure of the LEZ in terms of pollution reduction is a non-trivial question because pollution measured levels depend on a high number of factors, both related to emissions and diffusion of the pollutants. Some of them are highly variable (i.e. weather conditions). As a consequence, a direct comparison between 2020 pollution levels and previous years’ values is not a proper method to evaluate LEZ effects.
+
 The main objective of this project is to develop an automated evaluation method based on official pollution data provided by the Catalan air quality measurement network, atmospheric data, and other relevant information, to continuously evaluate the results of the Low Emissions Zones. One possible approach is to learn a prediction model of the pollution of the city of Barcelona based on the measurements of the metropolitan area (historical data) and use it for comparison with the current values.
+
 The project outcomes will include an evaluation report and a website/dashboard. 
 The results of the continuous assessment will be publicly available in www.contaminacio.barcelona website. They will also be presented to the “evaluation team“ that Barcelona Municipality is setting to evaluate the results of Low Emission Zone. If both methodology and results are robust enough a paper in a peer-review journal will be prepared.  
 
 Advisors: Laura Igual (UB) & Miquel Ortega (ENT Foundation).
-Miquel Ortega studied physics at the UB and holds a PhD on Environmental Sciences from the UAB. He is currently working in ENT Foundation and leads the website “Contaminacio.Barcelona”. From 2016 to 2019 he was the main sustainability advisor of Barcelona City Council, where he was responsible for coordinating the development of pollution policies. 
+
+> Miquel Ortega studied physics at the UB and holds a PhD on Environmental Sciences from the UAB. He is currently working in ENT Foundation and leads the website “Contaminacio.Barcelona”. From 2016 to 2019 he was the main sustainability advisor of Barcelona City Council, where he was responsible for coordinating the development of pollution policies. 
 
 Requirements: project for 1-3 students.
 
