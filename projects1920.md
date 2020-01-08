@@ -1,50 +1,6 @@
 
 # Project Proposals (19/20)
 
-## Identification and classification of bearing faults
-
-Predict failure and its root case in rotating equipment (specially pumps). Such machines can be rotating under different operating conditions (different rotational speed and different loads). The goal is to develop a predictive  maintenance  program which is able to diagnose early failure modes for all operating conditions and with few data samples. Deep convolutional networks will be used along with other techniques such as Nuisance Attribute Projection and Triplet learning. This project will be developed at Accenture.
-
-Advisor: Jordi Vitrià
-
-Requirements: project for one student.
-
-## UViu: multispectral smartphone imaging for personalised sun protection
-
-UViu is a smartphone-based, cost-effective multispectral imaging platform currently being developed
-at ICFO, the Institute of Photonics Sciences in Barcelona, with the aim of creating a spin-off company.
-The UViu team consists of Kevin Schädler, physicist/engineer with a PhD in photonics from ICFO, and
-Montse Mussons, an economist with a background in tech startups.
-One of UViu’s most promising applications is to fight skin cancer, the most common form of cancer
-worldwide today. Most skin cancer is caused by insufficient sun protection, which is hard for users to
-understand. Here, UViu’s imaging capabilities will enable anyone to see and quantifyi their personal
-degree of sun protection to reduce this risk.
-Our technology enables simultaneous and real-time ultraviolet (UV), visible (VIS) and near-infrared
-(NIR) imaging on any smartphone using a combination of an app and clip-on optics attached to the
-smartphone’s camera (below left image). At present, we have developed a hardware prototype to
-demonstrate the multispectral imaging capabilities on a basic app, including UV imaging to visualise
-sunscreen coverage (below right image).
-
-To further develop UViu’s capability of quantifying personal sun protection, we are currently looking
-for highly motivated students with an expertise in computer vision and deep learning. In particular, we
-are looking for candidates interested in one or more of the following tasks:
-1. Real-time measurement of sunscreen coverage by combining feature recognition in different
-spectral regions (e.g. detection of facial area in the visible / NIR + coverage measurement in
-that area in the UV) under solar illumination.
-2. UV index measurement by measurement and calibration of the UV signal.
-3. Quantification of effective sun protection. This combines an assessment of the user’s skin type
-(e.g. by body feature recognition + VIS/UV reflection) and the UV contrast provided by a given
-sunscreen.
-These functionalities would ideally be directly implemented on a mobile platform (e.g. Android), but
-could initially also be developed on a stationary platform as a proof of concept. 
-
-We are also looking for **longer-term involvement** if the candidate/s are interested.
-
-Advisors: Kevin Schädler & Jordi Vitrià
-
-Requirements: project for one student.
-
-
 ## Predicting Chaos
 Summary: Recent advances in machine learning have heavily influenced other areas of knowledge. One of these advances concerns the predictability of chaotic dynamical systems. Chaotic systems are characterized for presenting very different outcomes to very small variations of initial conditions. So far this looks quite abstract and complex, but is far easier. Recently, thanks to machine learning the horizon of prediction of chaotic dynamical systems has been extended by an order of magnitude. This incredible advance makes chaos far more predictable. See for reference https://www.quantamagazine.org/machine-learnings-amazing-ability-to-predict-chaos-20180418/. In this TFM we want to understand the basis of reservoir computing, the kind of technique that allows this incredible feature to be performed. We will apply this to a real scenario to define with the candidate.
 
@@ -303,4 +259,47 @@ The proposal's developers (s) are expected to create a web environment that desc
 Advisors: Xavier Rodó (ISGlobal) & Santi Seguí & Laura Igual
 
 Requirements: project for 1-2 students.
+
+## Identification and classification of bearing faults
+
+Predict failure and its root case in rotating equipment (specially pumps). Such machines can be rotating under different operating conditions (different rotational speed and different loads). The goal is to develop a predictive  maintenance  program which is able to diagnose early failure modes for all operating conditions and with few data samples. Deep convolutional networks will be used along with other techniques such as Nuisance Attribute Projection and Triplet learning. This project will be developed at Accenture.
+
+Advisor: Jordi Vitrià
+
+Requirements: project for one student.
+
+## UViu: multispectral smartphone imaging for personalised sun protection
+
+UViu is a smartphone-based, cost-effective multispectral imaging platform currently being developed
+at ICFO, the Institute of Photonics Sciences in Barcelona, with the aim of creating a spin-off company.
+The UViu team consists of Kevin Schädler, physicist/engineer with a PhD in photonics from ICFO, and
+Montse Mussons, an economist with a background in tech startups.
+One of UViu’s most promising applications is to fight skin cancer, the most common form of cancer
+worldwide today. Most skin cancer is caused by insufficient sun protection, which is hard for users to
+understand. Here, UViu’s imaging capabilities will enable anyone to see and quantifyi their personal
+degree of sun protection to reduce this risk.
+Our technology enables simultaneous and real-time ultraviolet (UV), visible (VIS) and near-infrared
+(NIR) imaging on any smartphone using a combination of an app and clip-on optics attached to the
+smartphone’s camera (below left image). At present, we have developed a hardware prototype to
+demonstrate the multispectral imaging capabilities on a basic app, including UV imaging to visualise
+sunscreen coverage (below right image).
+
+To further develop UViu’s capability of quantifying personal sun protection, we are currently looking
+for highly motivated students with an expertise in computer vision and deep learning. In particular, we
+are looking for candidates interested in one or more of the following tasks:
+1. Real-time measurement of sunscreen coverage by combining feature recognition in different
+spectral regions (e.g. detection of facial area in the visible / NIR + coverage measurement in
+that area in the UV) under solar illumination.
+2. UV index measurement by measurement and calibration of the UV signal.
+3. Quantification of effective sun protection. This combines an assessment of the user’s skin type
+(e.g. by body feature recognition + VIS/UV reflection) and the UV contrast provided by a given
+sunscreen.
+These functionalities would ideally be directly implemented on a mobile platform (e.g. Android), but
+could initially also be developed on a stationary platform as a proof of concept. 
+
+We are also looking for **longer-term involvement** if the candidate/s are interested.
+
+Advisors: Kevin Schädler & Jordi Vitrià
+
+Requirements: project for one student.
 
