@@ -1,6 +1,14 @@
 
 # Project Proposals (19/20)
 
+## Identification and classification of bearing faults
+
+Predict failure and its root case in rotating equipment (specially pumps). Such machines can be rotating under different operating conditions (different rotational speed and different loads). The goal is to develop a predictive  maintenance  program which is able to diagnose early failure modes for all operating conditions and with few data samples. Deep convolutional networks will be used along with other techniques such as Nuisance Attribute Projection and Triplet learning. This project will be developed at Accenture.
+
+Advisor: Jordi Vitrià
+
+Requirements: project for one student.
+
 ## UViu: multispectral smartphone imaging for personalised sun protection
 
 UViu is a smartphone-based, cost-effective multispectral imaging platform currently being developed
