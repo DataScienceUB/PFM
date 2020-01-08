@@ -29,7 +29,11 @@ that area in the UV) under solar illumination.
 sunscreen.
 These functionalities would ideally be directly implemented on a mobile platform (e.g. Android), but
 could initially also be developed on a stationary platform as a proof of concept. We are also looking
-for longer-term involvement if the candidate/s are interested.
+for **longer-term involvement** if the candidate/s are interested.
+
+Advisors: Kevin Schädler & Jordi Vitrià
+
+Requirements: project for one person.
 
 
 ## Predicting Chaos
