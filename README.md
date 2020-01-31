@@ -43,6 +43,7 @@ The quality of the projects will be graded by using three sources of information
 
 ### Master’s Project Report
 
++ Every student have to submit an individual report.
 + Use the latex report template available in this repository.
 + The report should contain 50 pages for a teamwork project and 30 pages for an individual project.
 + The report should contain a link to the project Github repository.
