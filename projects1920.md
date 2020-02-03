@@ -303,3 +303,11 @@ Advisors: Kevin Schädler & Jordi Vitrià
 
 Requirements: project for one student.
 
+## ML for white matter hyperintensities detection
+
+Magnetic resonance imaging (MRI) scans of patients with specific mental disorders (e.g. bipolar disorder) have been reported to show increased white matter hyperintensities (WMH), especially when using the fluid-attenuated inversion recovery (FLAIR) sequence. However, the detection of WMH is currently still conducted by visual inspection by a neuroradiologist, thus requiring human work and commonly resulting in imprecise reports about their size and localization. Several machine learning methods have been begun to use to conduct automated detection of WMH, but they were usually developed for other aims and their accuracy is little known. The aim of this project is to properly evaluate and compare the accuracy of the different methods to detect WMH in order to provide guidance. This work will benefit from a unique database of 9,705 WMH precisely located and sized by an expert neuroradiologist from 162 brains (95 from individuals with bipolar disorder and 67 from healthy controls). This work may be used for a PhD.
+
+Advisors: Quim Radua & Eloi Puertas
+
+Requirements: project for one student.
+
