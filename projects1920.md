@@ -6,7 +6,7 @@
 | Student   |      Title      |  Tutor|
 |----------|:---------:|----------:|
 | Bernat Esquirol | Classification algorithms for ego-networks in online social Networks | Albert Diaz-Guilera |
-| Alfons CÛrdoba | Classification of patterns in animal mobility                         | Albert Diaz-Guilera  |
+| Alfons Córdoba | Classification of patterns in animal mobility                         | Albert Diaz-Guilera  |
 | Laia Domingo | Identification and classification of bearing faults                     | Jordi Vitrià  |
 | Michael Depasse | Brain Functional Connectivity of Motivated States: A Computational Analysis | Ignasi Cos & Antonio Donaire (Institute of Neuroscience, UB)  |
 | Albert Garcia & Pere Gilabert | Endoluminal image classification: Human explainability through an auxiliary network | Santi SeguÌ  |
