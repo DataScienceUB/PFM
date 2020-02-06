@@ -1,6 +1,26 @@
 
 # Project Proposals (19/20)
 
+# Project Assignments 
+
+| Student   |      Title      |  Tutor|
+|----------|:---------:|----------:|
+| Bernat Esquirol | Classification algorithms for ego-networks in online social Networks | Albert Diaz-Guilera |
+| Alfons CÛrdoba | Classification of patterns in animal mobility                         | Albert Diaz-Guilera  |
+| Laia Domingo | Identification and classification of bearing faults                     | Jordi Vitri‡  |
+| Michael Depasse | Brain Functional Connectivity of Motivated States: A Computational Analysis | Ignasi Cos & Antonio Donaire (Institute of Neuroscience, UB)  |
+| Albert Garcia & Pere Gilabert | Endoluminal image classification: Human explainability through an auxiliary network | Santi SeguÌ  |
+| Núria Sánchez Font | Predicting Chaos | Oriol Pujol |
+| Jordi Ventura Banqué & Xavier López | Deep Learning with Noisy Labels | Petia Radeva |
+| Alejandro González Álvarez & Alejandro Hernandez | New data science techniques for multi-centre and multi-type biomedical data platforms |  Karim Lekadir, Oliver Diaz, Xenia Gkontra |
+| Àlex Arcas Cuerda | ML for white matter hyperintensities detection | Quim Radua & Eloi Puertas |
+| Petar Tonchev & Mariya Mladenova | DeepFood: Deep-(Learning)-Diving into the Food Data World | Petia Radeva |
+| Jordi Solé | HP project | To assign | 
+
+
+
+# Original Project Proposals
+
 ## Predicting Chaos
 Summary: Recent advances in machine learning have heavily influenced other areas of knowledge. One of these advances concerns the predictability of chaotic dynamical systems. Chaotic systems are characterized for presenting very different outcomes to very small variations of initial conditions. So far this looks quite abstract and complex, but is far easier. Recently, thanks to machine learning the horizon of prediction of chaotic dynamical systems has been extended by an order of magnitude. This incredible advance makes chaos far more predictable. See for reference https://www.quantamagazine.org/machine-learnings-amazing-ability-to-predict-chaos-20180418/. In this TFM we want to understand the basis of reservoir computing, the kind of technique that allows this incredible feature to be performed. We will apply this to a real scenario to define with the candidate.
 
