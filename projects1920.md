@@ -7,7 +7,7 @@
 |----------|:---------:|----------:|
 | Bernat Esquirol | Classification algorithms for ego-networks in online social Networks | Albert Diaz-Guilera |
 | Alfons CÛrdoba | Classification of patterns in animal mobility                         | Albert Diaz-Guilera  |
-| Laia Domingo | Identification and classification of bearing faults                     | Jordi Vitri‡  |
+| Laia Domingo | Identification and classification of bearing faults                     | Jordi Vitrià  |
 | Michael Depasse | Brain Functional Connectivity of Motivated States: A Computational Analysis | Ignasi Cos & Antonio Donaire (Institute of Neuroscience, UB)  |
 | Albert Garcia & Pere Gilabert | Endoluminal image classification: Human explainability through an auxiliary network | Santi SeguÌ  |
 | Núria Sánchez Font | Predicting Chaos | Oriol Pujol |
