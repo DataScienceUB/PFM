@@ -15,7 +15,7 @@
 | Alejandro González Álvarez & Alejandro Hernandez | New data science techniques for multi-centre and multi-type biomedical data platforms |  Karim Lekadir, Oliver Diaz, Xenia Gkontra |
 | Àlex Arcas Cuerda | ML for white matter hyperintensities detection | Quim Radua & Eloi Puertas |
 | Petar Tonchev & Mariya Mladenova | DeepFood: Deep-(Learning)-Diving into the Food Data World | Petia Radeva |
-| Jordi Solé | HP project | To assign | 
+| Jordi Solé | HP project | Mariano Yagüez Insa | 
 
 
 
