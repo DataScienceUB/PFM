@@ -19,7 +19,9 @@ The final project delivery must include:
 + a project report (see the Report Template directory). 
 + a high level description of the completed project (jupyter notebook and/or blog entry). 
 
-See this example: https://github.com/axelbrando/Mixture-Density-Networks-for-distribution-and-uncertainty-estimation
+See these examples: 
++ https://github.com/axelbrando/Mixture-Density-Networks-for-distribution-and-uncertainty-estimation
++ http://diposit.ub.edu/dspace/handle/2445/133281
 
 ### Project Assessment
 The quality of the projects will be graded by using three sources of information:
