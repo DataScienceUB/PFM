@@ -3,7 +3,7 @@
 | Committee 1| 
 |----------|
 | Members: Laura Igual, Sergio Escalera, Jeronimo Hernandez| 
-| Date: 9.07.2020, 10h to 12h. | 
+| Date: 09.07.2020, 10h to 12h. | 
 
 
 | Student   |      Title      |  When |
@@ -16,7 +16,7 @@
 | Committee 2 | 
 |----------|
 | Members:  Jordi Vitrià, Ignasi Cos, David Buchaca. | 
-| Date: 9.07.2020, 15h to 17h | 
+| Date: 09.07.2020, 15h to 17h | 
 
 | Student   |      Title      |  When |
 |----------|:---------:|----------:|
