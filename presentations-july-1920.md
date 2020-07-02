@@ -20,8 +20,8 @@
 
 | Student   |      Title      |  When |
 |----------|:---------:|----------:|
-| Albert Garcia	|Human explainability through an auxiliary Neural Network	| 9 July, 15:00 |
-| Pere Gilabert	|Twitter engagement model for the RecSys 2020 Challenge	| 9 July, 15:30 |
+| Albert Garcia	| Human explainability through an auxiliary Neural Network	| 9 July, 15:00 |
+| Pere Gilabert	| Twitter engagement model for the RecSys 2020 Challenge	| 9 July, 15:30 |
 | Bernat Esquirol | Twitter users during the 2020 Spanish lockdown. Characterizing the change in users activity and interactions | 9 July, 16:00 |
 | Núria Sánchez | Reservoir computing for learning the underlying dynamics of sequential data points | 9 July, 16:30 |
 
