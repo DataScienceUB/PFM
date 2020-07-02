@@ -16,7 +16,7 @@
 | Committee 2 | 
 |----------|
 | Members:  Jordi Vitrià, Ignasi Cos, David Buchaca. | 
-| Date: 0.07.2020, 15h to 17h | 
+| Date: 9.07.2020, 15h to 17h | 
 
 | Student   |      Title      |  When |
 |----------|:---------:|----------:|
