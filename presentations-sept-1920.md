@@ -7,9 +7,9 @@
 
 | Student   |      Title      |  Tutor | When |
 |----------|---------|----------|----------|
-| ALEJANDRO GONZÁLEZ ÁLVAREZ | Machine learning and causal inference approaches for systemic multi-disease associations in UK Biobank  | Dr. Karim LEKADIR, Akshay JAGGI Dra. Polyxeni GKONTRA | 9 September, 10:00  |
-| ALEJANDRO HERNANDEZ MATHEUS | Hand-crafted and Deep Learning-based CMR Radiomics for Diagnosis of Cardiovascular Diseases | Dr. Karim LEKADIR, Akshay JAGGI Dra. Polyxeni GKONTRA | 9 September, 10:30  |
-| XAVIER LÓPEZ ESPAÑOL & JORDI	VENTURA BANQUÉ | Deep Learning with Noisy Labels  | Sr. Petia Radeva, Javier Ródenas| 9 September, 11:00    |
+| ALEJANDRO GONZÁLEZ ÁLVAREZ | Machine learning and causal inference approaches for systemic multi-disease associations in UK Biobank  | Karim LEKADIR, Akshay JAGGI, Polyxeni GKONTRA | 9 September, 10:00  |
+| ALEJANDRO HERNANDEZ MATHEUS | Hand-crafted and Deep Learning-based CMR Radiomics for Diagnosis of Cardiovascular Diseases | Karim LEKADIR, Akshay JAGGI, Polyxeni GKONTRA | 9 September, 10:30  |
+| XAVIER LÓPEZ ESPAÑOL & JORDI	VENTURA BANQUÉ | Deep Learning with Noisy Labels  | Petia Radeva, Javier Ródenas| 9 September, 11:00    |
 
 
 | Committee 2 | 
