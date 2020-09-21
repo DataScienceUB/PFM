@@ -45,9 +45,12 @@ The quality of the projects will be graded by using three sources of information
 
 ### Master’s Project Report
 
-+ Every student have to submit an individual report.
 + Use the latex report template available in this repository.
-+ The report should contain a maximum of 50 pages for a teamwork project and 30 pages for an individual project.
++ Every student have to submit an individual report, with a different title specific for every member of a teamwork project.
++ The report should contain:
+  + between 45-55 pages for a teamwork project.
+  + between 25-35 pages for an individual project.
+  + Reports that do not meet these length limits will not be accepted.
 + The report should contain a link to the project Github repository.
 + For team projects, the report should contain a final appendix where the contribution of each of the team members should be detailed. Each member will be evaluated based on this information.
 + Delivery should be only digital by Campus Virtual.
