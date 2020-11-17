@@ -44,13 +44,16 @@ In summary, the student's goal would be that of identifying and quantify differe
 connectivity across brain areas as a function of the person's level of task engagement (motivated
 state). The student will also be at charge of the preparation of scientific manuscripts for publication
 and of presenting these results at scientific conferences.
+
 References:
 Gilson M, Moreno-Bote R, Ponce-Alvarez A, Ritter P, Deco G (2016) Estimation of Directed
 Effective Connectivity from fMRI Functional Connectivity Hints at Asymmetries of Cortical
 Connectome. PLoS Comput. Biol. 12
+
 Hindriks R, Schmiedt J, Arsiwalla XD, Peter A, Verschure PFMJ, Fries P, Schmid MC, Deco G
 (2017) Linear distributed source modeling of local field potentials recorded with intra-cortical
 electrode arrays. PLOS ONE 12:e0187490
+
 Sizemore, A. E., Phillips-Cremins, J. E., Ghrist, R. & Bassett, D. S. The importance of the whole:
 Topological data analysis for the network neuroscientist. Netw Neurosci 3, 656Ð673 (2019)
 Curto, C. What can topology tell us about the neural code? arXiv:1605.01905 [q-bio] (2016).
@@ -113,9 +116,11 @@ In summary, the student's goal would be that of developing computational models 
 identify and quantify differences of neural connectivity across brain areas as a function of the personÕs
 level of task engagement (motivated state). The student will also be at charge of the preparation of
 scientific manuscripts for publication and of presenting these results at scientific conferences.
+
 References:
 Gilson M, Moreno-Bote R, Ponce-Alvarez A, Ritter P, Deco G (2016) Estimation of Directed Effective Connectivity from fMRI
 Functional Connectivity Hints at Asymmetries of Cortical Connectome. PLoS Comput. Biol. 12
+
 Hindriks R, Schmiedt J, Arsiwalla XD, Peter A, Verschure PFMJ, Fries P, Schmid MC, Deco G (2017) Linear distributed source
 modeling of local field potentials recorded with intra-cortical electrode arrays. PLOS ONE 12:e0187490
 
@@ -159,8 +164,6 @@ tions: making decisions with multimodal complex inputs?
 Advisors: Ignasi Cos i Gorka Zamora.
 
 Contact: ignasi.cos@ub.edu
-
-
 
 
 
