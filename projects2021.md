@@ -129,44 +129,6 @@ Advisors: Ignasi Cos & Oriol Pujol
 Contact: ignasi.cos@ub.edu
 
 
-## Exploring the Performance of Modular ANNs as Brain-inspired Architectures
-
-Machine learning applications have experienced a remarkable success during
-this past decade. At least three factors contributed to this: (i) an increase in
-computing power, specially by the hand of GPUs; (ii) the availability of large
-datasets; and, most importantly, (iii) theoretical advances in our understanding
-of neural processes and of their associated learning algorithms.
-On the one hand, advances in machine learning have allowed to add hidden,
-layers to classical artificial neural networks, and thus, to give rise to the hierar-
-chical identification of neural processes. Early layers identify basic features of
-the data, while the scope of deeper layers broadens. However, deep networks
-are poor at solving several problems simultaneously. In fact, the entrainment
-for a second task must necessarily alter the crucial connectivity that was opti-
-mised for solving the initial problem. Furthermore, other ANNs; such as Echo
-and Liquid state machines are known for being able to solve several problems
-at the same time. The major difference is while deep networks are based on a
-rigid architecture consisting of layers, Echo and Liquid state machines initially
-consist of a sparse random graph that can assume a variety of topologies.
-In parallel with these advances, the study of brain's connectivity has re-
-vealed that at a mesoscopic and a macroscopic level, the brain is organised
-into a complex hierarchical network made of compartments (or modules) and
-highly connected regions (or hubs). This architecture is believed to provide the
-brain with both a rigid component needed to process dierent tasks in parallel
-(segregation) and the 
-exibility to combine results (integration).
-The goal of this project is to develop and characterize ANNs using archi-
-tectures inspired on brain connectivity, and to compare their performance with
-other ANN architectures when (i) training for multi-objective problems; (ii)
-solving problems of increasaing complexity. Is there any clear advantage in the
-use of a specific neural network architectures for generic neuroscience appica-
-tions: making decisions with multimodal complex inputs?
-
-Advisors: Ignasi Cos i Gorka Zamora.
-
-Contact: ignasi.cos@ub.edu
-
-
-
 ## Deep Learning for content-based indexing of TV programs.
 
 While digitization has changed the workflow of professional media production, the content-based indexing of video footage, necessary for subsequent stages of television production including recommendation, is typically still performed manually and thus quite time-consuming. This project will explore novel algorithms for visual concept detection, metric learning, and face detection combined in a multimedia tool for TV recommendation.  This project will be a collaboration with  PICAE Ris3Cat project (https://comunitatmedia.cat/portfolio/projecte-picae/) and training data will be all video footage from TV3 during the last 3 years.
@@ -174,8 +136,6 @@ While digitization has changed the workflow of professional media production, th
 - Supervisors: Jordi Vitrià (UB), Paula Gómez (UB)
 
 - Requirements: Programming in Pytorch. 1 or 2 students. 
-
-
 
 
 ## Crowd learning for SDGs
@@ -333,6 +293,7 @@ In this context, this MSc project will focus on multimodal heterogenous data int
 ¥	Clinical and family history
 ¥	Genomic data
 The project will be part of the H2020 euCanSHare project (www.eucanshare.eu), which is building a multi-centre big data platform for cardiovascular personalised medicine research.
+
 If interested, please contact polyxeni.gkontra@ub.edu for more details.
 
 Supervisors: Polyxeni Gkontra, Akis Linardos, Karim Lekadir
@@ -343,8 +304,11 @@ Number of students: 2 students.
 ## Multi-centre, multi-scanner and multi-disease cardiac image quantification using machine and deep learning
 In the recent years, many machine/deep learning models have been proposed to accurately segment and quantify cardiac structures in magnetic resonance imaging. However, when these models are tested on unseen datasets acquired from distinct MRI scanners or clinical centres, the quantification accuracy can be greatly reduced due to over-fitting. This makes it difficult for these tools to be applied consistently across multiple clinical centres, especially when subjects are scanned using different MRI protocols or machines. 
 We propose an Msc project for cardiac image segmentation and quantification combining data from different centres, vendors, diseases and countries at the same time. We will evaluate the generalisation ability of machine/deep learning and cross-domain transfer learning techniques for cardiac image segmentation and quantification, by testing these on a cohort of 375 cardiac MRI studies comprising healthy, hypertrophic and dilated hearts, acquired in three different countries (Spain, Germany and Canada) and by using four distinct MRI vendors (Siemens, Philipps, General Electric and Canon). The project will be part of the H2020 euCanSHare project (www.eucanshare.eu), which is building a multi-centre big data platform for cardiovascular personalised medicine research. 
+
 If interested, please contact karim.lekadir@ub.edu for more details.
+
 Supervisors: Karim Lekadir, Victor Campello, Carlos Martin-Isla
+
 Number of students: 2 students (one for segmentation, one for diagnosis)
 
 ## Segmentation of cardiac MRI in multi-centric and multi-vendor images using deep learning with uncertainty estimation
@@ -356,11 +320,10 @@ Goal of the MSc project: Development of an automated deep learning pipeline/tool
 2.	Model uncertainty estimation to guide the human operator to rapidly assess and correct the low confidence regions in the automated segmentation masks.
 3.	Active learning with the corrected masks to continuously improve the segmentation performance.
 These contributions will be compiled into a toolbox/application with an intuitive graphical user interface that can be used in a clinical practice.
+
 If interested, please contact kaisar.kushibar@ub.edu for more details.
 
 Advisors: Kaisar Kushibar, Petia Radeva, Karim Lekadir (University of Barcelona)
-
-
 
 
 ## Domain Adaptation for Synthetic Data Generation
