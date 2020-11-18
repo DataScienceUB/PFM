@@ -215,7 +215,7 @@ Requirements:
 
 
 
-## Title: Endoluminal image classification
+## Endoluminal image classification
 Capsule endoscopy is a procedure that uses a tiny wireless camera to take pictures of your digestive tract. A wireless capsule endoscopy (WCE) camera sits inside a vitamin-size capsule you swallow and takes more than 50.000 images which are sent to an external device in order to be analyzed.
 
 Although this is an amazing non-invasive product that allows the full visualization of the entire endoluminal track, its application is limited due to one main problem: the diagnosis, visualization of more than 60.000 images, is a hard and tedious task that must be done by experts. So, WCE needs AI to become a real clinical procedure.
@@ -226,7 +226,7 @@ In this project, the student will study and apply self-supervised models (using 
 - Requirements: 1-2 students
 
 
-## Title: RecSys Challenge Competition
+## RecSys Challenge Competition
 Every year in the scope of the International RecSys Conference (https://recsys.acm.org/recsys21/) a new real RecSys challenge is proposed. Each year the challenge is organized by a different company (twitter 2020; trivago 2019; spotify 2018).
 The goal of this Master Thesis not to win (that would be amazing) the challenge but study and participate in it. Last year, a master's student participated, finishing in 9th place.
 Information on the challenge is expected to be released by the end of the year and the challenge will begin in mid-February.
