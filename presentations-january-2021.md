@@ -11,4 +11,4 @@
 | MATTIA TONELLI   | Demand Forecasting in Pharmaceutical Supply Chains: Novo Nordisk Case Study | Martin CHRISTIANSEN & Oriol PUJOL | January 26, 10:00  |
 | PENNY TARLING | Deep Learning to Count Fish in Sonar Images | Sergio ESCALERA & Mauricio CANTOR & Albert CLAPÉS | January 26, 10:30  |
 | DAVID LORIS | Identification of Negative Keywords in Search Marketing with Embedding Layers & Neural Networks |  Jordi VITRIÀ  | January 26, 11:00  |
-| ALFONS CîRDOBA | Simulation of physical systems with variants of the Interaction Network |  Albert DÍAZ & Oriol PUJOL  |  January 26, 11:30  |
+| ALFONS CÓRDOBA | Simulation of physical systems with variants of the Interaction Network |  Albert DÍAZ & Oriol PUJOL  |  January 26, 11:30  |
