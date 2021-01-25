@@ -13,8 +13,8 @@
 | Carla Sendra |  Multi-centre and multi-scanner cardiac LGE-MRI segmentation using deep learning | Karim Lekadir, Victor Campello, Carlos Martin-Isla|
 | Blai Ras | Forecasting with cannibalization due to sales peaks (promos, events) and New Launches | Riste Gjorgjiev (Accenture Applied Intelligence) & Jordi Vitrià |
 | Montserrat Comas | Deep Learning the Structure of Brain States of Motivation  | Ignasi Cos & Oriol Pujol |
-| Alvaro Villamarin| Deep Learning for content-based indexing of TV programs | Jordi Vitrià & Paula Gómez |
-| Aitor Lucas Castellano & Noel Rabella Gras | TBA | |
+| Alvaro Villamarin| TBA | |
+| Aitor Lucas Castellano & Noel Rabella Gras | Deep Learning for content-based indexing of TV programs | Jordi Vitrià & Paula Gómez |
 | David Farré Gil |  From the Visual Analysis of Movement to Principled Models of Motivated Movement | Ignasi Cos & Sergio Escalera |
 | Fritz Pere Nobbe Fisas |  The Brain Network of Motivation: A Topological Approach | Ignasi Cos & Carles Casacoberta |
 | Ling Zhu |  Deep learning-based radiomics for multi-centre cancer image quantification | Laura Igual, Lidia Garrucho, Karim Lekadir |
