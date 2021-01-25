@@ -21,8 +21,8 @@
 | Adrián Torres Martín | Deep Learning for early-stage embryo image analysis  | Jerónimo Hernández & Jesús Cerquides |
 | Joana Reuss | Endoluminal image classification  | Santi Seguí |
 | Rachel Trimble | Biomarker Data Analysis to Support Early Stage Alzheimer's Diagnosis | Sergio Escalera , Lorena Rami (IDIBAPS) & Pau Buch-Cardona |
-| Alex padrós | TBA | Jerónimo Hernández |
-| Pablo Granatiero | TBA | Jerónimo Hernández|
+| Alex padrós | Crowd learning for SDGs | Jerónimo Hernández & Jesús Cerquides (IIIA)|
+| Pablo Granatiero | A recommender system for restaurants | Jerónimo Hernández & David Martín Suarez (Velada)|
 | Adrià Torralba Agell & Marcos Moreno Blanco | RecSys Challenge Competition | Santi Seguí |
 
 
