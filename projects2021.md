@@ -5,22 +5,22 @@
 
 | Student   |      Title      |  Tutor|
 |----------|:---------:|----------:|
-| Àlex Martínez Miguel  | Classification of travel offers for shared mobility applications | Ludovico Boratto (Eurecat), Cristian Consonni (Eurecat), Oriol Pujol (UB) |
-| Emilio Tylson Baixauli | Realistic Satellite Imagery with Progressive Structured Conditional GAN | Javier Marin (Satellogic) and Sergio Escalera (UB)|
-| Muriel Rovira Esteva   |  Machine Learning Copies as a Means for Black Box Model Evaluation  |  David Zeber (Mozilla Applied Machine Learning) & Oriol Pujol (Universitat de Barcelona)|
-| Irene Acero   | Contribution to the improvement of the cry translation algorithm by Zoundream | Ana Laguna Pradas (Zoundream) & Jordi Vitrià, (UB)  |
-| Pablo Álvarez Cabrera   |  ONCOTHROMB  | Jose Manuel Soria (Hospital de Sant Pau) y Oriol Pujol Vila (UB) |
+| Àlex Martínez Miguel  | Classification of travel offers for shared mobility applications | Ludovico Boratto (Eurecat), Cristian Consonni (Eurecat), Oriol Pujol |
+| Emilio Tylson Baixauli | Realistic Satellite Imagery with Progressive Structured Conditional GAN | Javier Marin (Satellogic) and Sergio Escalera|
+| Muriel Rovira Esteva   |  Machine Learning Copies as a Means for Black Box Model Evaluation  |  David Zeber (Mozilla Applied Machine Learning) & Oriol Pujol|
+| Irene Acero   | Contribution to the improvement of the cry translation algorithm by Zoundream | Ana Laguna Pradas (Zoundream) & Jordi Vitrià |
+| Pablo Álvarez Cabrera   |  ONCOTHROMB  | Jose Manuel Soria (Hospital de Sant Pau) y Oriol Pujol |
 | Carla Sendra |  Multi-centre and multi-scanner cardiac LGE-MRI segmentation using deep learning | Karim Lekadir, Victor Campello, Carlos Martin-Isla|
 | Blai Ras | Forecasting with cannibalization due to sales peaks (promos, events) and New Launches | Riste Gjorgjiev (Accenture Applied Intelligence) & Jordi Vitrià |
 | Montserrat Comas | Deep Learning the Structure of Brain States of Motivation  | Ignasi Cos & Oriol Pujol |
-| Alvaro Villamarin| Deep Learning for content-based indexing of TV programs | Jordi Vitrià (UB), Paula Gómez (UB) |
+| Alvaro Villamarin| Deep Learning for content-based indexing of TV programs | Jordi Vitrià & Paula Gómez |
 | Aitor Lucas Castellano & Noel Rabella Gras | Multimodal biomedical data integration for atrial fibrillation diagnosis using deep learning | Polyxeni Gkontra, Akis Linardos, Karim Lekadir |
 | David Farré Gil |  From the Visual Analysis of Movement to Principled Models of Motivated Movement | Ignasi Cos & Sergio Escalera |
 | Fritz Pere Nobbe Fisas |  The Brain Network of Motivation: A Topological Approach | Ignasi Cos & Carles Casacoberta |
 | Ling Zhu |  Deep learning-based radiomics for multi-centre cancer image quantification | Laura Igual, Lidia Garrucho, Karim Lekadir |
 | Adrián Torres Martín | Deep Learning for early-stage embryo image analysis  | Jerónimo Hernández & Jesús Cerquides |
 | Joana Reuss | Endoluminal image classification  | Santi Seguí |
-| Rachel Trimble | Biomarker Data Analysis to Support Early Stage Alzheimer's Diagnosis | Sergio Escalera (UB), Lorena Rami (IDIBAPS) & Pau Buch-Cardona (UB) |
+| Rachel Trimble | Biomarker Data Analysis to Support Early Stage Alzheimer's Diagnosis | Sergio Escalera , Lorena Rami (IDIBAPS) & Pau Buch-Cardona |
 | Alex padrós | TBA | Jerónimo Hernández |
 | Pablo Granatiero | TBA | Jerónimo Hernández|
 | Adrià Torralba Agell & Marcos Moreno Blanco | RecSys Challenge Competition | Santi Seguí |
