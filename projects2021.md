@@ -24,6 +24,7 @@
 | Alex padrós | Crowd learning for SDGs | Jerónimo Hernández & Jesús Cerquides (IIIA)|
 | Pablo Granatiero | A recommender system for restaurants | Jerónimo Hernández & David Martín Suarez (Velada)|
 | Adrià Torralba Agell & Marcos Moreno Blanco | RecSys Challenge Competition | Santi Seguí |
+| Adrián Fernández Cid | A study of polarisaton in online (Twitter) social networks | Emanuele Cozzo & Oriol Pujol Vila |
 
 
 
