@@ -6,12 +6,10 @@
 | Montserrat Comas   |  |
 | Pablo Granatiero   |  |
 | Aitor Lucas & Noel Rabella   |  |
-
 | Alex Martínez  |  |
 | Marcos Morena & Adrià Torralba |  |
 | Fritz Nobbe  |  |
 | Alex Padrós | |
-
 | Joanna Reuss |  |
 | Carla Sendra |  |
 | Adrián Torres |  |
