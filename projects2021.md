@@ -1,7 +1,24 @@
+# Project Presentations (July 2021)
+
+| Student   |     Date |
+|----------|:---------:|
+| Irene Acero   |  |
+| Montserrat Comas   |  |
+| Pablo Granatiero   |  |
+| Aitor Lucas & Noel Rabella   |  |
+
+| Alex Martínez  |  |
+| Marcos Morena & Adrià Torralba |  |
+| Fritz Nobbe  |  |
+| Alex Padrós | |
+
+| Joanna Reuss |  |
+| Carla Sendra |  |
+| Adrián Torres |  |
+| Emilio Tylson |  |
+
 
 # Project Assignments (Feb-June 2021)
-
-
 
 | Student   |      Title      |  Tutor|
 |----------|:---------:|----------:|
