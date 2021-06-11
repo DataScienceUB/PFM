@@ -42,7 +42,7 @@ The quality of the projects will be graded by using three sources of information
 
 ### Project Proposals
 
-[Project Proposals 2020/2021](projects2021.md)
+[Projects 2020/2021](projects2021.md)
 
 ### Master’s Project Report
 
