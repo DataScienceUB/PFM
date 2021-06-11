@@ -21,7 +21,7 @@
 | Adrián Torres Martín | Deep Learning for early-stage embryo image analysis  | Jerónimo Hernández & Jesús Cerquides |
 | Joana Reuss | Endoluminal image classification  | Santi Seguí |
 | Rachel Trimble | Biomarker Data Analysis to Support Early Stage Alzheimer's Diagnosis | Sergio Escalera , Lorena Rami (IDIBAPS) & Pau Buch-Cardona |
-| Alex padrós | Crowd learning for SDGs | Jerónimo Hernández & Jesús Cerquides (IIIA)|
+| Alex padrós | Facing the Label-Switching problem when using generic inference platforms for crowd annotation models  | Jerónimo Hernández & Jesús Cerquides (IIIA)|
 | Pablo Granatiero | A recommender system for restaurants | Jerónimo Hernández & David Martín Suarez (Velada)|
 | Adrià Torralba Agell & Marcos Moreno Blanco | RecSys Challenge Competition | Santi Seguí |
 | Adrián Fernández Cid | A study of polarisaton in online (Twitter) social networks | Emanuele Cozzo & Oriol Pujol Vila |
