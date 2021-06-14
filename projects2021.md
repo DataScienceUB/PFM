@@ -2,17 +2,17 @@
 
 | Student   |     Date |
 |----------|:---------:|
-| Irene Acero   | July 7 |
-| Montserrat Comas   | July 7 |
-| Pablo Granatiero   | July 7 |
-| Aitor Lucas & Noel Rabella   | July 7 |
-| Alex Martínez  | July 8 |
-| Marcos Moreno & Adrià Torralba | July 8 |
-| Joana Reuss | July 8 |
-| Alex Padrós |July 9 |
-| Carla Sendra | July 9  |
-| Adrián Torres | July 9  |
-| Emilio Tylson | July 9  |
+| Irene Acero   | July 7, 9:30h |
+| Montserrat Comas   | July 7, 9:30h  |
+| Pablo Granatiero   | July 7, 9:30h  |
+| Aitor Lucas & Noel Rabella   | July 7, 9:30h  |
+| Alex Martínez  | July 8, 9:30h  |
+| Marcos Moreno & Adrià Torralba | July 8, 9:30h  |
+| Joana Reuss | July 8, 9:30h  |
+| Alex Padrós |July 9, 9:30h  |
+| Carla Sendra | July 9, 9:30h   |
+| Adrián Torres | July 9, 9:30h   |
+| Emilio Tylson | July 9, 9:30h   |
 
 
 # Project Assignments (Feb-June 2021)
