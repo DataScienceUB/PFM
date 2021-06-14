@@ -8,8 +8,8 @@
 | Aitor Lucas & Noel Rabella   | July 7 |
 | Alex Martínez  | July 8 |
 | Marcos Moreno & Adrià Torralba | July 8 |
-| Alex Padrós |July 8 |
-| Joana Reuss | July 9 |
+| Joana Reuss | July 8 |
+| Alex Padrós |July 9 |
 | Carla Sendra | July 9  |
 | Adrián Torres | July 9  |
 | Emilio Tylson | July 9  |
