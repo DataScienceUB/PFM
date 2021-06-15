@@ -3,9 +3,10 @@
 | Student   |     Date |
 |----------|:---------:|
 | Irene Acero   | July 7, 9:30h |
-| Montserrat Comas   | July 7, 9:30h  |
-| Pablo Granatiero   | July 7, 9:30h  |
-| Aitor Lucas & Noel Rabella   | July 7, 9:30h  |
+| Montserrat Comas   | July 7, 10:00h  |
+| Pablo Granatiero   | July 7, 10:30h  |
+| Aitor Lucas & Noel Rabella   | July 7, 11:00h  |
+|----------|:---------:|
 | Alex Martínez  | July 8, 9:30h  |
 | Marcos Moreno & Adrià Torralba | July 8, 9:30h  |
 | Joana Reuss | July 8, 9:30h  |
