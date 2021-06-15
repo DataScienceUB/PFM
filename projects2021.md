@@ -1,18 +1,18 @@
 # Project Presentations (July 2021)
 
-| Student   |     Date |
-|----------|:---------:|
-| Irene Acero   | July 7, 9:30h |
-| Montserrat Comas   | July 7, 10:00h  |
-| Pablo Granatiero   | July 7, 10:30h  |
-| Aitor Lucas & Noel Rabella   | July 7, 11:00h  |
-| Alex Martínez  | July 8, 9:30h  |
-| Joana Reuss | July 8, 10:00h  |
-| Marcos Moreno & Adrià Torralba | July 8, 10:30h  |
-| Alex Padrós |July 9, 9:30h  |
-| Carla Sendra | July 9, 10:00h   |
-| Adrián Torres | July 9, 10:30h   |
-| Emilio Tylson | July 9, 11:00h   |
+| Student   |     Date | Commitee | 
+|----------|:---------:| S.Seguí, O.Diaz, J.Fortiana |
+| Irene Acero   | July 7, 9:30h | S.Seguí, O.Diaz, J.Fortiana |
+| Montserrat Comas   | July 7, 10:00h  | S.Seguí, O.Diaz, J.Fortiana |
+| Pablo Granatiero   | July 7, 10:30h  | S.Seguí, O.Diaz, J.Fortiana |
+| Aitor Lucas & Noel Rabella   | July 7, 11:00h  | S.Seguí, O.Diaz, J.Fortiana |
+| Alex Martínez  | July 8, 9:30h  | O.Pujol, M.Ribersa, j.Hernández | 
+| Joana Reuss | July 8, 10:00h  | O.Pujol, M.Ribersa, j.Hernández | 
+| Marcos Moreno & Adrià Torralba | July 8, 10:30h  | O.Pujol, M.Ribersa, j.Hernández | 
+| Alex Padrós |July 9, 9:30h  | S.Escalera, Ll. Garrido, I.Cos |
+| Carla Sendra | July 9, 10:00h   | S.Escalera, Ll. Garrido, I.Cos |
+| Adrián Torres | July 9, 10:30h   | S.Escalera, Ll. Garrido, I.Cos |
+| Emilio Tylson | July 9, 11:00h   | S.Escalera, Ll. Garrido, I.Cos |
 
 
 # Project Assignments (Feb-June 2021)
