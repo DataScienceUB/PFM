@@ -1,5 +1,7 @@
 # Project Presentations (July 2021)
 
+Presentations will be online. There will links to the corresponding online session every day. Please, connect some minutes before your expected presentation time just to check the connection.
+
 | Student   |     Date | Commitee | 
 |----------|:---------:| :---------: |
 | Irene Acero   | July 7, 9:30h | S.Seguí, O.Diaz, J.Fortiana |
