@@ -4,9 +4,9 @@ Presentations will be online. There will links to the corresponding online sessi
 
 | Student   |     Date | Commitee | 
 |----------|:---------:| :---------: |
-| Irene Acero   | July 7, 9:30h | S.Seguí, O.Diaz, J.Fortiana |
-| Montserrat Comas   | July 7, 10:00h  | S.Seguí, O.Diaz, J.Fortiana |
-| Pablo Granatiero   | July 7, 10:30h  | S.Seguí, O.Diaz, J.Fortiana |
+| Irene Acero   | July 7, 9:30h | S.Seguí, A.Diaz, J.Fortiana |
+| Montserrat Comas   | July 7, 10:00h  | S.Seguí, A.Diaz, J.Fortiana |
+| Pablo Granatiero   | July 7, 10:30h  | S.Seguí, A.Diaz, J.Fortiana |
 | Aitor Lucas & Noel Rabella   | July 7, 11:00h  | S.Seguí, O.Diaz, J.Fortiana |
 | Alex Martínez  | July 8, 9:30h  | O.Pujol, M.Ribersa, J.Hernández | 
 | Joana Reuss | July 8, 10:00h  | O.Pujol, M.Ribersa, J.Hernández | 
