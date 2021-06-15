@@ -1,7 +1,7 @@
 # Project Presentations (July 2021)
 
 | Student   |     Date | Commitee | 
-|----------|:---------:| S.Seguí, O.Diaz, J.Fortiana |
+|----------|:---------:| :---------: |
 | Irene Acero   | July 7, 9:30h | S.Seguí, O.Diaz, J.Fortiana |
 | Montserrat Comas   | July 7, 10:00h  | S.Seguí, O.Diaz, J.Fortiana |
 | Pablo Granatiero   | July 7, 10:30h  | S.Seguí, O.Diaz, J.Fortiana |
