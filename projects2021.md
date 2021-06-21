@@ -7,10 +7,10 @@ Presentations will be online. There will links to the corresponding online sessi
 | Irene Acero   | July 7, 9:30h | S.Seguí, A.Diaz, J.Fortiana |
 | Montserrat Comas   | July 7, 10:00h  | S.Seguí, A.Diaz, J.Fortiana |
 | Pablo Granatiero   | July 7, 10:30h  | S.Seguí, A.Diaz, J.Fortiana |
-| Aitor Lucas & Noel Rabella   | July 7, 10:30h  | S.Seguí, A.Diaz, J.Fortiana |
+| Aitor Lucas & Noel Rabella   | July 7, 11:00h  | S.Seguí, A.Diaz, J.Fortiana |
 | Alex Martínez  | July 8, 11:00h  | O.Pujol, M.Ribera, J.Hernández | 
-| Joana Reuss | July 8, 11:00h  | O.Pujol, M.Ribera, J.Hernández | 
-| Marcos Moreno & Adrià Torralba | July 8, 11:00h  | O.Pujol, M.Ribera, J.Hernández | 
+| Joana Reuss | July 8, 11:30h  | O.Pujol, M.Ribera, J.Hernández | 
+| Marcos Moreno & Adrià Torralba | July 8, 12:00h  | O.Pujol, M.Ribera, J.Hernández | 
 | Alex Padrós |July 9, 9:30h  | S.Escalera, Ll. Garrido, I.Cos |
 | Carla Sendra | July 9, 10:00h   | S.Escalera, Ll. Garrido, I.Cos |
 | Adrián Torres | July 9, 10:30h   | S.Escalera, Ll. Garrido, I.Cos |
