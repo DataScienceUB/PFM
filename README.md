@@ -43,7 +43,7 @@ The quality of the projects will be graded by using three sources of information
 ### Project Proposals
 
 + [Projects July 2020/2021](projects2021.md)
-+ [Projects September 2020/2021](projects2021september.md)
++ [Projects September 2020/2021](projects2021september)
 
 ### Master’s Project Report
 
