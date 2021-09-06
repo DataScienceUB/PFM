@@ -1,9 +1,9 @@
 # Project Presentations (September 2021)
 
-Presentations will be **online**. There will links to the corresponding online session every day. 
+Presentations will be **online**. There will be links to the corresponding online session every day. 
 Please, connect some minutes before your expected presentation time just to check the connection.
 
-## Committee 1: Thurday Setembre 9 at 10:00h
+## Committee 1: Thursday, Setember 9, at 10:00h
 
 Students:
 
@@ -17,7 +17,7 @@ Members of the committee:
 +  Vocal: Arturo Vieiro
 +  Secretari: Eloi Puertas
 
-## Committee 2:  Friday September 10 at 10:00h
+## Committee 2:  Friday, September 10, at 10:00h
 
 Students:
 
