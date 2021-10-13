@@ -1,3 +1,3 @@
 | Student   |      Title      |  Tutor|
 |----------|:---------:|----------:|
-| ? | Ground-based Cloud Classification with Deep Learning | Jordi Vitrià, Gerard Gómez |
+| ? | Ground-based Cloud Classification with Deep Learning (CCN vs Transformers) | Jordi Vitrià, Gerard Gómez |
