@@ -40,7 +40,7 @@ The quality of the projects will be graded by using three sources of information
 
 ### List of Suggested Projects
 
-+ [Projects July 2021/2022](projects2122.md)
++ [Projects 2021/2022](projects2122.md)
 
 ### Master’s Project Report
 
