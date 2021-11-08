@@ -30,20 +30,21 @@ The quality of the projects will be graded by using three sources of information
 + The public presentation of your project. Your presentation should be professional enough to give at a technical conference (e.g. organized approach, prepared slides, a short demo or video if appropriate). 
 + [Peer-evaluation](https://docs.google.com/document/d/1iYwW6xOXSaQ9ApzYHpk-GdLONF9VGV17rOod2ifFkQs/edit?usp=sharing) for teamwork projects. Team members will assess other members of the team as well as themselves. Peer assessment provides data that will be used in assigning individual grades for team members.
 
-### Calendar (2020/2021)
-+ Jan. 18: First follow up meeting
-+ Jan. 22: Deadline for sending your project priorities. Please, fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSfQAFki1YXuK37cjgrIT52hnwF60kLAkh_SlsRVBnmoQ0GXOw/viewform?usp=pp_url)
-+ Feb. 1: Assignment of projects & supervisors to student groups.
-+ Feb. 12: Limit for delivering the project proposal short document to your advisor.
-+ Feb 13 - Jul. 1: Period of development of your project.
-+ Jun. 1: Limit for informing if you will present the TFM in July or September.
-+ Jul. 1 & Set. 2: Limit for final delivery of your project (via Campus Virtual task).
+### Calendar (2021/2022)
++ Dec TBD: Publication of a list of possible projects. 
++ Jan. TBD: Deadline for sending your project priorities. Please, fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSfQAFki1YXuK37cjgrIT52hnwF60kLAkh_SlsRVBnmoQ0GXOw/viewform?usp=pp_url)
++ Jan. TBD: Assignment of projects & supervisors to student groups.
++ Feb. TBD: Limit for delivering the project proposal short document to your advisor.
++ Feb TBD: - Jul. TBD: Period of development of your project.
++ Jun. TBD: Limit for informing if you will present the TFM in July or September.
++ Jul. TBD & Set. TBD: Limit for final delivery of your project (via Campus Virtual task).
 + Jul. TBD & Set. TBD: Presentations.
 
 ### Project Proposals
 
 + [Projects July 2020/2021](projects2021.md)
 + [Projects September 2020/2021](projects2021september.md)
++ [Projects July 2021/2022](projects2122.md)
 
 ### Master’s Project Report
 
