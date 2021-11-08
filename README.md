@@ -38,10 +38,8 @@ The quality of the projects will be graded by using three sources of information
 + Jul. TBD & Set. TBD: Limit for final delivery of your project (via Campus Virtual task).
 + Jul. TBD & Set. TBD: Presentations.
 
-### Project Proposals
+### List of Suggested Projects
 
-+ [Projects July 2020/2021](projects2021.md)
-+ [Projects September 2020/2021](projects2021september.md)
 + [Projects July 2021/2022](projects2122.md)
 
 ### Master’s Project Report
