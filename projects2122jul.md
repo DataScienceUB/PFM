@@ -1,5 +1,5 @@
 | Student   |      Title      |  Tutor| 
-|----------|:---------:|----------:| ----------:|
+|----------|:---------:|----------:| 
 | ? | Ground-based Cloud Classification with Deep Learning (CCN vs Transformers) | Jordi Vitrià (jordi.vitria@ub.edu), Gerard Gómez (UB) |
 | ? | ? | Carlos Carrasco (ESADE) |
 | Xavier de Juan Pulido | Pattern Recognition in mice behaviours using machine learning. | Eloi Puertas (epuertas@ub.edu) i Prats (Facultat de Matemàtiques i Informàtica-UB), Mercé Masana i Nadal (Facultat de Medicina i Ciències de la Salut-UB) | 
