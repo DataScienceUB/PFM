@@ -1,4 +1,4 @@
-Project Descriptions: (Link)[https://hackmd.io/@jordivitria/ryNUPogct]
+Project Descriptions: [https://hackmd.io/@jordivitria/ryNUPogct]
 
 | Student   |      Title      |  Tutor| 
 |----------|:---------:|----------:| 
@@ -10,4 +10,5 @@ Project Descriptions: (Link)[https://hackmd.io/@jordivitria/ryNUPogct]
 | ?   |  Mental health estimation with data coming from multiple sources  |  Jerónimo Hernández González (jeronimo.hernandez@ub.edu) |  
 | ? | Topic modeling for improving recomendations | Paula Gómez (paula.gomez@ub.edu) (UB) | 
 | ? | Mitigating and leveraging popularity bias in recomender systems | Paula Gómez (paula.gomez@ub.edu) (UB) | 
-  
+|? | Deep Learning with Noisy Labels |Petia Radeva (petia.ivanova@ub.edu) (UB)| 
+|? |Applying Machine learning on Epidemiological study of Mediterranean Diet  |Petia Radeva (petia.ivanova@ub.edu) (UB)| 
