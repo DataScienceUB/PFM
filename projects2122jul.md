@@ -1,3 +1,5 @@
+Project Descriptions: (Link)[https://hackmd.io/@jordivitria/ryNUPogct]
+
 | Student   |      Title      |  Tutor| 
 |----------|:---------:|----------:| 
 | ? | Ground-based Cloud Classification with Deep Learning (CCN vs Transformers) | Jordi Vitrià (jordi.vitria@ub.edu), Gerard Gómez (UB) |
