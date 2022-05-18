@@ -29,18 +29,13 @@ The quality of the projects will be graded by using three sources of information
 + The public presentation of your project. Your presentation should be professional enough to give at a technical conference (e.g. organized approach, prepared slides, a short demo or video if appropriate). 
 
 ### Calendar (2021/2022)
-+ Dec TBD: Publication of a list of suggested projects. 
-+ Jan. TBD: Deadline for sending your project priorities. Please, fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSfQAFki1YXuK37cjgrIT52hnwF60kLAkh_SlsRVBnmoQ0GXOw/viewform?usp=pp_url)
-+ Jan. TBD: Assignment of projects & supervisors to student groups.
-+ Feb. TBD: Limit for delivering the project proposal short document to your advisor.
-+ Feb TBD: - Jul. TBD: Period of development of your project.
-+ Jun. TBD: Limit for informing if you will present the TFM in July or September.
-+ Jul. TBD & Set. TBD: Limit for final delivery of your project (via Campus Virtual task).
-+ Jul. TBD & Set. TBD: Presentations.
-
-### List of Suggested Projects
-
-+ [Projects 2021/2022](projects2122.md)
++ Dec 15, 2021: Publication of a list of suggested projects. 
++ Jan. 12, 2022: Deadline for sending (form) your project priorities. 
++ Jan. 19, 2022: Assignment of projects to students.
++ Feb - Jun 2022: Period of development of your project.
++ Jun 9: Deadline to fill the form with the TFM information.
++ Jun. 30: Limit for final delivery of your project (via Campus Virtual task).
++ Jul. 1-15: Public Presentations.
 
 ### Master’s Project Report
 
